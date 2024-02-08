@@ -1,0 +1,893 @@
+Evet Herkese günaydın Sayın Arkadaşlar şu an 22 kişiyiz biraz daha zannımca artar saat 9'dan sonra
+genel olarak dersle ilgili muhabbetle başlayalım 2 sınıfınız O yüzden beni çok tanımıyorsunuz herhalde ismim Furkan Çakmak
+1 katta odam d122 Tabii bu yıl bu dönem Belki çok fazla ziyaret etme imkanınız olmayacak
+Belki önümüzdeki dönem yüz yüze eğitime başladığımızda o şekilde ziyaret edebilirsiniz bölüm sekret
+olduğu kattayım yani şimdi sizinle beraber sen bilirsin bu dönem yürüteceğiz Bu ders biraz Diğer
+meşakkatli bir ders Öncelikle bir programlama bilginizin olması temelde gerekiyor Yani şunu söylemek istiyorum
+BBG derslerinde veya işte yapısal programlamaya giriş derslerinde konuyu güzel kavramış Algoritma
+iyi olması gerekiyor çünkü burada temelde Biz bir programlama dilinin bütün program
+alt tarafta nasıl çalıştığını anlamaya çalışacağız çünkü CD'siz program yazıyorsunuz o daha sonra sen bile denilen
+bir dile dönüştürülüyor ve bilgisayar bir tek Hasan biri dilinden anlıyor Sizce havada da yazsanız bir Onda da yazsanız Bunların hepsi bütün programlama dilleri
+öncelikle sen bilye çevriliyor ve bilgisayara sen bile programını yani bilgisayar dediğimiz daha teknik konuşmak gerekirse işlemci
+dilini algılıyor Biz de alt seviye programlama dersimizde Asem dilini öğreniyor olacağız
+bununla programlama yetisi kazanmaya aynı şekilde çalışacağız Tabii çeşitli böyle özellikleri olacak üst seviyede
+biraz daha pratik olarak işleri yapabilirken alt seviyede daha hızlı veya bellek tasarrufu sağlayabilmek adına
+belki zaman kaybetme gibi durumlar söz konusu olacak bunların üzerinden geçeceğiz değerlendireceğiz biraz yoğun geçiyor asamble derslere
+sınavları Ondan sonra yani projeleri ödevleri hep yoğun geçiyor Arkadaşlar onu söylüyorlar dönem sonunda anket
+baştan itibaren sıkı tutarsanız güzel olur diye düşünüyorum Şöyle ki yani Maalesef bu dönem pandemiden
+ötürü uzaktan eğitim yapıyoruz Fakat bu ders dinlemeden ve soru sormadan çok kavramı bilecek bir ders değil
+Yani internette belki Siri öğrenebilirsiniz Algoritma işte Akış diyagramı çizmeyi falan öğrenebilirsiniz Ama bu ders biraz daha meşakkatli
+Biraz daha ileri uzmanlık gerektiren bir ders Çünkü o sebeple sizin ben temel beklentimiz anlam
+en ufak bir noktada sormanız Tamam yani tabii beni daha yeni tanıyorsunuz belki Tabii şu
+tam listeyi göremiyorum alt dananın arkadaşlar vardır Beni tanıyorlar onlar ama birçoğunuz yeni tanıyorsunuz beni bu sorulara ben çok önem veriyorum
+soruları üzerinden gitmeyi seviyorum Lütfen ders bu akış esnasında soru sorun bir çoğunuz eminim ki
+Hem dersi dinleyip hem YouTube'dan işte bir şeyler izleyip hem Bilgisayarda bir şeyler yapmaya çalışıyorsunuz dur böyle yapmayın lütfen Yani bu tabii
+derken bunu Şunu kastediyorum yapanlar yapabilir Biz bunu kontrol edemeyiz fakat işte projeler geldiğinde sınavlar geldiğinde Bu dersle ilgili
+ben işte bu dersi tekrardan Keşke sorabileceğim zamanlar olabilir Onu şimdiden Onun için şimdiden önlem
+acizane tavsiye ediyorum Evet perşembe günleri olacak dersimiz
+Geçen hafta ikiye bölündü bu haftanın başında Daha doğrusu ikiye bölündü grubumuz bazı arkadaşlar sistemsel
+ötürü hala daha Erkan Hoca'nın grubunda görülebiliyor İnşallah o problemlerde en kısa zamanda düzelir Ama bu haftaya özel sistem Erkan Hoca'nın grubunda
+onun öğrencilerinin Benim grubum
+kıymetli arkadaşlar yani onunla beraber yapacağımız ödevler projeler hep ortak olmuş olacak Sınav
+birazdan bunları da konuşuyor olacağız sınav yapılacaksa sınavda ortak olmuş Olacak yani her iki grubun
+değerlendirme materyalleri aynı şekilde olmuş olacak ben konuşuyorum tabii inşallah sesimize geliyordur şimdi slayt bir açalım
+geliyor hocam sesini hiçbir sıkıntı yok Teşekkürler Çok teşekkürler ara sıra böyle sesinizi duyalım şimdi şu slayta
+bize bölüm dedi ki yani yönetim dedi ki daha doğrusu Bu arkadaşlar dersi dinleyip dinlemediğini ara sıra bu arkadaşları
+listeden Quiz yap ya ben böyle bir şey yapmayı çok uygun bulmuyorum o an dikkatinizi dağılmış olabilir sıkıntı çıkabilir sizden beklediğim Temel
+derse katkı Yani sizi Sonuçta bu dönem biraz daha böyle notlandırma konusunda enteresan durumlara gidilecek herhalde öyle
+Yani normalde sınav yapıyorduk işte sınavda çok güzel bir şekilde notlandırma yıl belki yıl içinde birazdan bahsedeceğim hiç sınav yapamayacağız sizin notlandırma
+derse katılımınız da önemli etkenlerden birisi olabilir Bunu söylemek istiyorum Yani bu dersi alttan alan arkadaşlar da olabilir veya
+işte dersi de hocam Kıl payı kalıyorum dönem sonundaki Bense muhabbeti yaşayacağımız muhabbeti söyleyin Hocam Kıl payı kalmışım
+biraz daha not verseniz DJ ile geçeceğim Yani ben seni hiç görmedim Ne soru sordun Ne yüzünü gösterdin tanım
+derse katılıp katılmadığını dahi bilmiyorum ne işle uğraştığını bilmiyoruz yani nasıl yapalım bu işi gibi çeşitli problemler var o yüzden lütfen
+katılım kıymetli arkadaşlar Erkan Acar mesaj atmış da dersle ilgili onu bir cevaplayayım
+demiştim ya bazı öğrencilerde hala sıkıntı varmış dersi bu sisteminin grubunda görünmelerine rağmen
+bu online sistemde derse katıl dediklerinde Erkan Hoca'nın grubuna düşüyorlar Ama zannımca bu hafta bu tarz sıkıntılar giderilir diye
+biraz belki Serkan Hoca'nın grubu kalabalık olabilir ama Önümüzdeki hafta giderilir herhalde diye düşünüyorum
+Evet bu tarz uyarıları yaptıktan sonra slayt kısmına geçebiliriz herhalde
+Evet tabii yorumlar var bu yorumları da okuyoruz Bu yorumları Okur
+birazdan bundan bahsedeceğim mesaj yazarım Bu ilk haftalar böyle biraz yazışmalı geçecek Arkadaşlar kusura bakmayın
+onu birazdan bayağı yoğun bir şekilde derse başlamış olacağız şimdi bu arkadaşların yorumlarını sesli okuyalım Siz de dün ders programı sekmesinden iki grupta seç
+çok güzel yani beni seçmeniz lazım Grup 2 Furkan Çakmak yazıyorsa benden alanlar beni Erkan Hoca'dan alanlar Erkan Hoca'yı seçmesi lazım hocam Erk
+grubunda görünüyordu giremedim buraya geldim sıkıntı olmaz umarım Yani oraya giremedi iseniz temelde bu haftalık sıkıntı olmaz ama
+Erkan Hoca'nın grubunda dinlemeniz lazım bu da önemli hususlardan birisi niçin söylüyorum yine üniversite yönetiminin attığı mail doğrultusunda Önümüzdeki
+itibaren yoklama alınacakmış biliyorsunuz bu işi bir devam zorunluluğu var bazı arkadaşlar ya hocam yoklama alınsa ne bilgisayarı açık bırakıp gidiyor adam falan da
+Hiç olmazsa onun grubunda açık bırakabilirsin anlatabiliyor muyum o bir problem olabilir Tamam iki grupta tıklamalı ise bize girip
+hangi hususi seçimde kimde görünüyorsanız ona gireceksiniz kıymetli arkadaşlar şimdi şu slayt kısmına şey yapalım
+slaytı görebiliyor musunuz şu an ekranda
+Evet Evet güzel Evet evetse güzel
+ders işleyişinden kısaca bahsedelim o şekilde ilerleyelim arkadaşlar bugün biraz böyle derse tanıtmış olacağız 3 saat ders yapacağız
+3 saat oluyor Bir hafta kaybımız var zaten Cumhuriyet Bayramı'na gidiyordu yanlış hatırlamıyorsam birazdan onun üzerinden geçeceğiz o sebeple
+dersler dolu dolu geçecek genelde sıkıldığımız yerde söyleyin Hocam biz artık daha fazla algılayamayız sürmenaj olduğu falan derseniz bir ara veririz
+anlatırız tekrardan dikkatinizi toparlamaya Çünkü dikkatsiz bir şekilde dinlenebilecek bir ders değil arkadaşlar
+O da önemli hususlardan birisi derslerimiz Perşembe günü 9.12 arasında olacak Bu döneme özel bir şekilde bütün dersler ist
+online ortamda gerçekleştirilecek yani hocam işte dönemin yarısından sonra yüz yüze eğitim başlar mı sorusu
+Şu an için hayır başlamaz yani Muhtemelen pandemi sıfır ense bile başlamayacak Çünkü İstanbul dışında yaşayan
+gelip yerleşme evi bulma yurt bulma işleri zor şimdi Tabii 2 sınıf olduğunuz için belki bölüm derslerini daha yeni yeni almaya başladınız
+BMW'ler vardı ama bu dönem biraz daha bölüm dersleri ağırlıklı bir dönem geçiriyorsunuz duyurular ile ilgili muhakkak
+sayfamı takip ediyorsunuz yani şimdi burada ki Top sizde Bunu otomatik olarak avese sayfalarını okuyup tek bir
+toplayan uygulamalar da var onları kendi aranızda biliyorsunuzdur zaten ben obezite mesela duyuru paylaştım 2 gün içinde cevap bekliyorum öğrenci
+şu şeyi asla duymak istemiyorum Hocam ben avessi görmedim yani Bu sizin sorumluluğunuzda günde belli bir vaktinizi ayırın maksimum 7-8 ders alıyorsunuz
+8 Hoca'nın sayfasına hiçbir duyuru olmadığında şöyle girip bakmak 30 saniye sürmez sizin gibi adamlar için o yüzden bu Top sizde kıymetli arkadaşlar
+Tabii duyuru paylaşıldıkça böyle toplu bir görebileceğiniz uygulamalar da var onları biliyorsunuz onlardan da takip edebilirsiniz birçok durumda Us
+toplu mesajlaşma sisteminde kullanıyor olacağım yani o sistem size mesaj gönderebiliyor O da sizin öğrenci mail adreslerinize gidiyor o yüzden öğrenci
+mail adresleriniz bir yere Entegre değilse veya girip orayı kontrol etmiyorsanız Bu da başınıza sıkıntı Açabilir muhakkak husus öğrenci
+maillerinizi oradan gelecek mesajlaşmalar karşı her daim aktif tutmanızı bekliyoruz yine bu ders kapsamında henüz online Yıldız edu TR'de ders
+Pazaryeri yazı sal bakımdan paylaşmak çok mümkün olmadığı için belki zaman içinde oraya geçeriz bilmiyorum ama bir Google classroom kullanıyor olacağız
+burada o Google classroom kodunu görebiliyorsunuz burada ders materyallerini ki hatta birkaçını birtakım şeyler paylaş
+ders materyallerini dersle ilgili duyuruları ben işte size bildirmek amacıyla paylaşıyor olacağım burada Siz de işte duvara
+yazarak soru sorabilirsiniz dersle ilgili konularla ilgili soru sormak istiyorsanız lütfen Öncelikle Google classroom kullanın niçin söylüyorum
+attığınızda mailiniz belki cevaplanma sadece sis takıldığınız o konuyu öğrenmiş oluyorsunuz Google classroom da bu soruyu sorarsanız diğer arkadaşlarımızla cevabı
+Onların da kafalarına takılan bir şeyler varsa onlar da böylece öğrenmiş oluyorlar o yüzden Google classroom şu sınıf kodu ile lütfen
+oraya subscribe olun Ekstradan bir davet falan gerekmiyor Top sizde Yani bunu yazıp kaydol veya işte abone ol falan dediğiniz
+hemen oraya katılabiliyorsunuz hocam Record için izniniz gerekiyormuş da Evet birazdan ona geleceğiz
+Yani bu üniversitenin Zoom sistemi olduğu için biz böyle bir şey izin veremiyoruz çok uğraştım zoom'u kurcaladım yok Sizden beklediğimiz şu
+kendi imkanlarınızla kaydetmeniz yani Zoom'un üzerinden değil de kendi ekranınızı kaydeden bir sürü uygulama var biliyorsunuz
+oradan kaydedebilirsiniz birazdan maddeye de geleceğiz yani şu an şurada mesela Zoom kaydoluyor ya bu kaydı ben bile başlattım
+Bulut'a kaydediliyor falan diyor Benim bilgisayarımda Bulut neresi bilmiyorum ya Muhtemelen benim bilgisayarıma dahi kaydedilmiyor üniversitenin sistemine kaydediliyor diye tahmin ediyorum
+Evet zaten bak bu arkadaş demiş Ondan Yıldız'dan izleyebiliyorsunuz falan filan diye
+ondan Yıldız'dan herkesin video izlemeye çalıştığını düşünün yani ondan Yıldız böyle bir şey sağlayamayabilir o yüzden ben
+size tavsiyem Yani bu zor bir şey değil bilgisayar mühendisi öğrencileri için kendi ekranınızı kaydedin arkadaşlar Tamam bu Top sizde yani kimseden
+kaydettin mi Ben senden alayım falan filan işlerine girmeden kendiniz kaydedin lütfen şimdi bu online sisteme girdiğimizde bizi bize
+usis şey Zoom linki gönderiyor Size de gönderiyor bize de gönderiyor Böylece şey yapabiliyoruz ne denir ona zoom'dan
+size ne bu şekilde ders yapabiliyoruz ama ola ki Yıldız editöre çalışmadı ki bazen olabiliyor biliyorsunuz
+V online sistemlere giremiyoruz ders yapmayacak mıyız yapacağız böyle bir durumda da şurada gördüğünüz benim meeting ID ve Pes kodum
+derse katılın Lütfen yani kendi zoom'da personel odamda derse başlıyor olacağız öyle durumlar için söylüyorum
+Bu da slaytta bulunmuş olsun Hem slaytta hem de aklımızda bulunmuş olsun Şimdi Tabii bir de
+dersle ilgili işte görüşmek istediğiniz özel şeyler olabilir yani bir mesaja veya bir maile cevap vererek
+probleminizi gidermeye bilirsiniz benim cevabımı giderebilirsiniz böyle bir sorunuz varsa bir mail atarak değil daha önceden böyle yapıyor
+Ama şu an şurada gördüğünüz adresten randevu alarak randevu alarak bu bir booking sayfası randevu alarak belirlenen
+onlar için benimle görüşebilirsiniz burada randevu aldıktan sonra benim Az önce işte yukarıda verdiğim Zoom meeting ID ve pasaport üzerinden
+odada görüşme gerçekleştireceğiz mail ile randevu talep eden görüş Hocam işte şu konuyu tekrar üzerinden geçebilir miyiz diye anlatan arkadaş soran arkadaşlar
+vermeyeceğim muhakkak randevu almanızı bekliyorum bunun için yapıyorum bunu şunun için yapıyorum Şimdi pandemi olmadığı durumda Biz odamız
+bir şeyler çalışıyoruz bir şeyler araştırıyoruz öğrenci arkadaşlar takıldık sorusu olduğunda kapıyı çalıp geliyorlar orada sorularına cevap
+işte 5-10 dakika sürüyor Neyse ama bu dönem öyle bir şey imkanı yok Siz de tahmin edebiliyorsunuz o sebeple buna benzer bir şey
+için en azından takıldığınız yerde sorularınızı sorabilmek için ayrıca böyle beraber İşte birkaç kişi de olabilir Bir kişi de olabilir Çok önemli değil bir Zoom
+üzerinden görüş görüşebiliriz onun için de bu adresten muhakkak randevu almanız lazım tamam mı arkadaşlar bu adresten randevu almadığınız
+görüşme imkanımız yok Evet buraya kadar sorusu olan var mı Yok çok güzel
+devam edelim şimdi az önce işte mesajları okudum şu uyarıyı yapmamıştım
+bu uyarıda yapmış olayım öğrenci arkadaşların varsa soruları yani sizlerin soruları varsa veya derste benim sorduklarında bir cevap vereceksiniz derse
+yapacaksanız kesinlikle yazarak söylemiyorsunuz muhakkak sesli söylüyorsunuz ama yani yazıları okumak olayı acayip dağıtıyor çünkü
+muhakkak ve muhakkak sesli bir şekilde sorumuzu soruyorsunuz Tabii sesli soruyu sorarken de kendinizi görülebilir kılman diyoruz Tamam ya ben soruyu sor
+olduğunu bileyim şimdi 3 sınıflarla Ders yapıyoruz öğrencilerin yüzde 90'ını tanıyorum ismini gördüğümde siması gözümde canlanıyor ama sizi tanımıyoruz Siz de tanıyalım
+yani yavaş yavaş siz bizi tanıyacaksınız Belki bu ders kapsamında Biz de sizi tanıyalım o yüzden yani şu Bahane değil hocam benim
+kamerası yok veya işte benim Bilgisayarımın mikrofonu yok kulaklığı yok neyse bu tarz şeyler bir bilgisayar
+mühendisi öğrencisi için bahane değil Ama şunu da söyleyeyim maddi açıdan bu konularda sıkıntı çekip de alamayan arkadaşlar varsa onlar mail atabilirler onlara da bir şekilde bu işi
+Yani kesinlikle mikrofonunuzu hani benim mikrofonum yok o yüzden konuşamıyorum gibi bir şeyi kabul etmiyoruz mikrofonunuzu olması lazım
+kendinizi görüntülü görünür kılman bekliyoruz soruları şimdi bu Tabii soru sormanızı engel olmaması lazım Yani şimdi ben görüneceğim sesle konuşacağım o yüzden anlamadım
+Sormayayım diye düşünmeyin Buradaki amaç sizi tanımak Bir de dedim ya sizi ne kadar tanır sonunda Bu arkadaşın notu ne olsun diye düşündüğümüzde bir
+daha sizin adınıza iyi olabilir yani şu an zaten kontrol ediyorum bu uyarı için öğrenci arkadaşlarımızın tamamını Mikrofonları
+ama ben yine de bir kez daha uyarmış olayım dersi dinlerken lütfen mikrofonunuzu kapatın çünkü birçoğunuz belki evdesiniz dışarıda sınız bilmiyorum nereden din
+ortam seslerinin dersi rahatsız etmesi gibi bir durum söz konusu olabiliyor bunu da ekstradan uyarmış olalım
+şimdi Tabii bağlantı kopabilir bağlantı kopabilir koptu işte Mesela nasıl olacak bu bağlantının kopması Bu yıl bilmiyorum
+mesela online sistemler Dumanla haberleşme dinde bizim dersimiz yarıda kesilecek mi bilmiyorum olası şekillerde ya da kesildiğinde hemen dersin
+ile ilgili yani 1 dakikadan uzun bir süre bağlantının kopmasında durumunda size dersi devam edecek miyiz edeceksek nereden edeceğiz gibi
+bilgilendirmeyi Google classroom sayfasında yapacağım çünkü bağlantı koptuğunda arkadaşlar Yıldız Edirne ile bağlantı gittiğinde ne avizesi kullanabiliyorsun ne
+kullanabiliyorsun Tamam yani oradan duyuru yapacağım demek çok makul değil o yüzden Google classroom sayfasından duyuru yapacağım lütfen orayı
+takip edin Bu dersi anlattığım slaytlar olacak Önümüzdeki ya bu hafta da biraz var ama Önümüzdeki haftadan itibaren
+yeni bir şey deneyeceğiz sizinle beraber yarasa slayt yarısı da yazma şeklinde yazabilecek miyim bilmiyorum yazarak anlatacağım yani
+biraz daha dikkatinizi toparlayın diye slaytların o kısımlarını sildim böyle yazıya dönüştürmeye çalıştım
+dahil herhangi bir şekilde siz de bir döküman ekstradan Ben paylaşmayacağım ders kaydedildiğini görüyorsunuz bunu işte online sistemden
+bildiğinizi söylemişti bazı arkadaşlar oradan dediğim gibi Herkes işte sınav zamanı bir şey zamanı oradan
+video izlemeye çalışırsa orası da sıkıntıya düşecektir Siz de bunu tahmin edebiliyorsunuz zaten sıkıntıya hiç düşmeyelim Evet düşmeye bilir ama Benim tavsiyem şu
+Yani kendi imkanlarınızla Bu dersi kaydetmeniz Ondan sonra yani bu dersleri nereden bulabilirim diye tekrardan düşünmemeli
+bu hafta Tabii benim ekranımı full Kaydediyorsun şunları kapatalım Tabii bu hafta alt seviye program
+özellikleri ile başlıyor olacağız ve işte biraz işlemcinin içerisinde neler dönüyor neler var Onları görüyor olacağız işleyiş
+1 haftamız Cumhuriyet Bayramı Dolayısıyla yapamayacağız yani uzaktan eğitim de olsa bayram
+yine de tatil o sebeple bu şekilde 13 hafta boyunca ders işlemiş olacağız Şu an bir Normalde
+nasıl olurdu şu an vize haftasını göremiyorsunuz burada çünkü vize ile ilgili henüz net bir şeyler yok ama vize ile ilgili bir şeyler olduğunda ona göre bu
+birbirlerine sıkıştırılabilir eklenebilir Araya bir vize yerleştirilebilir şimdi dersin kitabına gelelim
+Burada gördüğünüz kaynaklardan yararlanabilirsiniz Ama bu yıl İşte bu dersi daha
+çok uzun yıllar boyunca Tevfik hocam vermişti belki dersi alttan alanlar uzun süreden beri alttan alanlar varsa isimlerinden
+onlar Tevfik Hoca'yı tanırlar Tevfik Hoca'nın İşte benim ve Erkan Hoca'nın beraber yazmış olduğu bir kitap var
+sen bile dili 80 86 Hasan bile tasarım ve çevre birimleri Bu kitap Hem sen bile dersi için hem de 3 sınıfta alacağımız mikroişlemci dersi
+ortak bir kitap her iki derste de kullanılabilecek bir kitap Bunun eski versiyonları var sadece sen bile dilini kapsayan ikinci baskı 1
+da olabilir yani onları temin edip bulmak isterseniz onlar da olabilir üstten sınıflarımızın atan biri kitapları vardır onları
+değerlendirebilirsiniz yani onlar size verebilirler belki burada kitaptan belki bazı şeyleri takip etmeniz sizin adınıza güzel olabilir kesin
+demiyorum asla dersi güzel bir şekilde dinleyen arkadaşlar için biraz da orada pratik yapabilecekleri soru örnekleri var onu söyleyebilirim sadece
+şimdi değerlendirme kısmına Gelecek olursak şu an Erkan hoca ile dediğim gibi ortak yapacağımız kesin
+onu söyleyeyim ama ara sınav şu an yapmayız gibi duruyor Fakat üniversite yönetiminin bu konudaki tavrını henüz söylemedi açıklamadığı üniversit
+Senato ara sınav yapılsın Derse ara sınav yapacağız açıkçası veya işte bölüm yönet
+kesinlikle vize istiyoruz derse vize yapılacak ama Şu aşamada dönem içi değerlendirmeleri ödevler üzerinden
+olmak istiyoruz dönem sonu değerlendirmesi ise sınav şeklinde olabilir Muhtemelen ama hani üniversite yönetimi final sınavı da ödev olsun
+olsun derse o da bir proje olur Burada şu tabloda şu ana kadar üniversite yönetiminin açıkladığı tek kesin olan şey şu yıl içi değerlendirmenin etki
+160 final sınavının final dönemi değerlendirmenin etki oranı %40 olsun şeklinde sadece net olan O ikisi var diğerleri şu tabloda
+zaman içerisinde üniversite yönetiminin yaklaşımı doğrultusunda değişecektir arkadaşlar Evet buraya kadar sorusu olan var mı
+Evet çok güzel bu şöyle söyleyeyim Sessizlik sorumuz yok demek onu
+izah etmiş olalım yani hiç ses yoksa ben devam ediyor olacağım Bu tarz durumlarda şimdi
+Asem bili bili aslında bir programlama dili programı ilk Language yani Fakat bu asamble dili diğer programlama dillerine göre
+nasıl bir konumda yer alıyor onun üzerinden geçerek başlayalım bir kere şunu söyleyebiliriz diller arasında donanıma
+dil Esen bile dili yani donanım derken donanım İşte bizim işlemciniz belleyerek Memory miz yani RAM
+veya veya çeşitli çevre birimleri ile ilgili gelen ve giden out verilerinin kontrolü şeklinde donanıma
+yakın Diley Diley makine kodu dediğimiz benim imlecim görebiliyor musunuz bilmiyorum ama
+kodu dediğimiz 1 ve 0'dan oluşan object kodlar var arkadaşlar yani bir bütün programlama dillerinin makine en son çalıştırmak istediğinde
+ve sıfırları çalıştırıyor bunun hemen üstünde asan beli dili yer alıyor yani makine kodlarının sembolik
+biz buna ne demek istiyoruz Mesela işte 1 0 0 1 diye bir makine kodu olduğunu düşündüm 5 bitten oluşan bunun
+Esen bilirim de bir komut ve kod karşılığı olabilir Muhtemelen de vardır Siz Esen bile dilinin size birazdan tanıtıyor olacağız
+setini yani komut kümesini incelediğinizde hangi makine koduna karşılık hangi komutun geldiğini sembolik komutun geldiğini
+görüyor olacaksınız Yani aslında sen bile dili yazarken Biz 1 ve 0 yazıyoruz sadece onun sembolik halini kullanıyoruz yani sembolik değiştirilmiş hali ne demek bir internet
+yukarıya IP adresini yazarak girmeye çalıştığınızı düşünün işte 142 nokta 17 nokta 45.57 mesela IP
+yazıyorsun giriyorsun Yıldızeli TR bu Ama bu IP adreslerini hepsi için akılda tutmak ve hatırlayıp yazabilmek
+zor olduğu için orada bir sembolik gidiliyor bir naming yapılıyor Yıldızeli TR diye anıyoruz biz onu burada da öyle Aslında
+makine kodlarının tam olarak karşılığı Esen bile dilinde komutlar var Bunları da görüyor olacağız ardından
+dilinin hemen üstünde si programlama dili bunu geçtiğimiz yıl derslerde görmüş oldunuz si
+derlenen bile diline dönüştürülüyor Ondan sonra bilgisayar makine kodunu çalıştırıyor arkadaşlar
+senin hemen üstünde ise işte python Java Pascal gibi biraz daha uygulama yazılımlarını barındıran yani Mesela Java ile
+sistem yazılımı gerçekleştiremiyoruz pitona keza kısmen belki işte pitonun kütüphaneleri var ama pitonun temelde bu iş için üretilmiş
+ama Side mesela hem uygulama yazılımı da yapabilirsiniz hem sistem yazılımı da yapabilirsiniz Bunlar arasındaki fark ne sistem yazılımı donanım üzerinde
+bir şeyler gerçekleştireceğiniz yani Mesela donanım üzerinde bir tane led var programlama dilinin kendi yetileri sayesinde o led'i yakıp söndür bildiğinizi
+tamam mı direkt Yani bunu mesela CD çok rahat programlayabilirsiniz veya bir veri geliyor bilmem ne portundan o port
+veriyi direkt CD'den okuyup oporta veri yazabilirsiniz C'nin A sen bilir tabii Zaten ha sen beni Sadece bu iş için sistem yazılımları için oluyor bu
+imkanları var ama yukarıya doğru çıktıkça işte bir de grafik dilleri var böyle bilgisayar grafiği bilgisayar oyunları falan yapabileceğiniz çeşitli diller var Onlar da
+tamamen artık uygulama yazılımları için kullanılıyor sistem yazılımlarından uzak durumdalar Burada aşağıya doğru indikçe dil
+insan için anlamak zor oluyor makineye daha yakın olmuş oluyor yukarıya doğru çıktıkça ise insanın programlaması biraz daha insana
+yakın hissettiriyor kendisini O yüzden biraz daha belki kolay olabiliyor Biz ama temelde Asem bili dili Yani bu ders kapsamında sistem
+gerçekleştirilebilen asamble dili üzerinde duruyor olacağız Evet A sen bir dili hakkında
+yanlış bilgiler var yanlış bilgiler diyelim buna yanlışlar demeyelim de yani siz belki üst sınıflarla
+WhatsApp gruplarında veya işte internete çeşitli araştırmalar falan yaptığınızda oradan çeşitli nasıl söyleyelim
+yer alıyor bunların yanlış ve doğru olarak diye bir vatandaş gruplandırılmış hakikaten şunu söyleyebiliriz
+Buradaki her önyargı kolaydır ama sen beni dilini anlamak çok kolaydır gibi bir önyargı dahi üzerinden geçirip tartışılmaya değer şimdi
+öğrenmesi zordur deniliyor bu dili şöyle söyleyelim diğer bütün programlama dillerini
+belki hariç genelde uygulama yazılımı geliştirmek için kullanılıyor ve uygulama yazılımı geliştirmek için kullanıldığından ötürü biraz daha
+insana daha yakın ha sen beni dilim biraz makineye yakın olduğu için sistem programları geliştirmek çok daha elverişli ve Asel dilini
+dan sonra güzel bir şekilde içselleştirilmiş Öyle bilgisayar tarafından çalıştırıldığını bildiğiniz için
+burada Aslında alt taraftaki bu dili öğrenme isteği bu dilin zor olmasını ortadan kaldırıyor yani diğer diller ne
+zorsa bu dilde o kadar zor bu dilde mesela Side bana kaç tane komut kullanıyorsunuz diye sorsam kütüphaneleri bir kenara bırak
+işte if White For işte değişken tanımları için belki bazı şeyler duyular switchler falan toplam Taş çatlasın 10 tane söylersiniz
+işte burada Az önce bahsettiğim bir instruction setimiz var o ınstruction setin içerisinde birden fazla yani ondan çok daha fazla
+300 tane komut var tek buranın biraz daha böyle üzerinde durulmasını gerektiren nokta ınstruction setinin biraz
+ve kalabalık olması fakat bir instructions eti var yani insanlık Cinsiyet ne demek kullanma kılavuzu Yani bizim anlayacağımız dilli bir kullanma kılavuzu var bu kullan
+açıp ne şekilde o komutu kullanacağınızı gözlemleyebiliyoruz bu derste sizden Temel beklentimiz ise bu
+kullanma kılavuzunun nasıl kullanacağını anlamanız tamam mı Ben de komutların hiçbirini öyle Ezbere bilmiyorum açıyorum isterseniz seti bakıyorum aha şöyleymiş
+böyleymiş Tamam o zaman şunu kullanayım diyorum Tamam öğrenmesi zordur kesinlikle yanlış bir ifade okumak ve anlamak güçtür bu da çok göreceli
+Geçenlerde bir arkadaş bir soru sordu list diye bir dil var Belki duymuşsunuzdur risk yani list dilinde
+falan kullanıyorsunuz python yazdıysanız python'da indentation girintili çıkıntılı yazarak levelling yapıyorsunuz
+if yazarken bile parantezleri öyle bir sıralıyoruz ki if oluyor parantezleri Daha farklı bir
+ilk diye bir komut Yok onu demek istiyorum parantezleri daha farklı şekilde sıralar yani şimdi okumak ve anlama güçtür derken neye göre
+güç Bu da ayrı bir şey Eğer ki sistem yazılımı geliştirmek istediğiniz durumlarda veya
+dersin sonlarına doğru daha güzel anlayacaksınız hıza ihtiyacınız olduğu durumda Yani full bir program yazdınız 10 saniyede sonuç veriyor ya benim işime yaramıyor bu
+maksimum sonuç vermesi gerekir derseniz Ya sen bile bu sefer geçeceksiniz Hasan bile dilinde sadece o programı yazmanız değil
+kullandığınız yüksek seviyeli dillerin içerisinde uzun hesaplama yapan o fonksiyonları da sadece sen bir de yaz
+yani Mesela Siz sallıyorum C Plus Plus kodu yazıyorsunuz bir bilgisayar oyunu geliştiriyorsunuz tamam mı Adam karşısındaki kiş
+yabancı doğrultuya ve ekranın içerisinde o tabanca doğrultu kişiyi Ateş etse vurur mu vurmaz mı bunu hesaplamaya çalışıyorsunuz ve zaman alıyor ya
+ettiğini vurman lazım niye bunun hesaplanması Real Time diyoruz buna gerçek zamanlı olması lazım sadece o fonksiyonu Mesela sen bir de yazabilirsiniz
+programımızın geri kalanı işte okunuşu geldi C Plus Plus da olabilir bu da önemli hususlardan birisi okumak ve anlamak güçtür
+sorusunun cevabı neye göre yani mesela öyle marka Piyango işler var ki esquel gibi tabii Okuması daha kolay Çünkü o diller tasarlanır
+İngiliz diline yakın tasarlanmış tamam mı Öyle olunca kullanılan komutlar dahi yakın s1m
+bilen birisi için ve anlaması bu konuda güç olduğunu söyleyemeyiz si ve hatayı bulmak
+python'da Hatay bulmakta ne kadar zorlanıyorsanız Hasanbeyli'de de güzel bir şekilde dibak yapabiliyorsanız Yani bir bak point'in doğru yere yerleştirip
+oradan itibaren aşama aşama kodu çalıştırıp ve kod çalıştığında değişkenlerin ve burada yaz maçları göreceksiniz register
+gece sırlarının üzerindeki değerler ne olduğunu gördüğünüzde hatayı bulmak diğer yani dibak bilen bir insan için hatayı bulmak kesinlikle Hiçbir program
+zor değildir onu söyleyebiliriz yazılmış programların bakımı zordur kısmı ise biraz çetrefilli yani şöyle
+Asem bilir genelde şu şekilde oluyor mesela bir şirkete işe başlıyorsunuz o şirkette kullanılan 30 yıl önce yazılmış
+Onur revize etmeniz isteniyor genelde çok fazla üniversitede de sen beni dili yok Bu arada müstakil bir ders olarak alt seviye programlama dili yok bilgisayar mü
+hiç Asem bile dili bilmeden mezun oluyorlar ve böyle iş yerlerine gidip yazılmış 30 yıl
+fonksiyonlarını revize etmeye çalışıyorlar hiç bilmeyen bir adam için evet bakımı zordur Ama bu dersin amacı bu yani bu bakımı
+diyen gruptan olmayın diye programı yazmak zordur ınstruction seti kullanmayı
+sürece Evet zordur ama kullanmayı anladığınız andan itibaren bakın şurada altta ne yazıyor diğer yani diğerleri programing Language geç
+E sen bilir ile ilgili hep Art denir Art ofis Sen bilir yani bu işin bir tarafta sanat Bir taraftan da böyle sanatsal bir kısmı yani diğer
+program yazıyorsun ama burada yazdığında O program çalıştığında aldığın hazla diğerlerin ki farklı çünkü burada makine ile direkt
+ya makinenin üzerinde işlemcinin üzerinde register denilen donanım birimleri var işte elektronik devreler dersinde falan göreceksiniz onları donan
+Yani sen bir satır kod çalıştırarak o donanım biriminin içerisine bir elektrik yükleyebiliyor tamam mı Ve bu yaptığın elektrik yüklem
+bir program oluşuyor sayıları küçükten büyüğe doğru sıralayabilme Action seti güzel kavrayıp anl
+birisi için yazmanın ne zor ne de uzun zaman aldığını söyleyebilirim Şimdi şöyle düşünün buradaki programlamanın uzun
+almasından kasıtlı Bir taraftan da çalıştırmakla ilgili düşünün yani siz bir kütüphane bilgi sistemi geliştiriyorsunuz orada bir kitap search
+sallıyorum 15 milyon kitap arasında o kitap var mıdır ve hatta öyle bir soru çözüyorsunuz ki 15 milyon kitabın tamamının tekstilleri taranıp
+haline getirilmiş ve siz bir kelime ikilisini arıyorsunuz bu kelime ikilisi art arda geçen kelime ikilisi hangi kitaplarda var
+inen kitap arasındaki bütün testleri okuyorsunuz Şimdi tahmin edebileceğiniz üzere zaman alan bir şey yani programlaması uzun ama çalışmıyor
+düşünün bunu bir tonda yazdınız diyelim ki 5 günde programlandınız pitona yazdığınız için çok yüksek bir olasılık
+bu çalışma süresi 5 saat sürecektir yani her iki sözcük arandığında 5 saat sonunda sana sonuç verecek Yani aynı şeyi
+5 günde değil de 10 günde programl çalışma süresinin 3 dakika olduğunu düşünün Tamam yani burada zamanın uzun olmasından kasıt
+derleme zamanı mı çalıştırma zamanı mı geliştirme zamanı mı programlama süresinin uzun olması bazı şeyleri güzel kurgulayıp algorit
+tasarlayıp işlemcinin kaynaklarını doğru kullanarak programın çalışma süresini kısaltacak manasına gelen bir şey aslında temelde
+Tabii şöyle şeyler söyleniyor o kadar çok gelişen derleyiciler diller falan var ki artık hızlı çalışıyorlar asan bile
+ihtiyaç yok hızlı çalışıyorlar ben kasıtlı ben size anlatayım Şimdi Deep learning diye bir konu var Belki biliyorsunuz
+Deep learning derin öğrenme diye geçiyor işte 3 sınıfta 4 sınıfta seçmeli ders alınca o tarz şeyleri de göreceksiniz meşinden Hani teknikleri Yapay Zeka teknikleri
+derlenmesi Arkadaşlar siz kod derlenmesi deyince artık ne olduğunu biliyorsunuz Side kodu derlediğimiz de executable egzoz uzantılı bir şey oluşuyor ya da hata veriyor Hiç
+vermediğini düşünen egzoz uzantılı bir şey oluşuyor şimdi programların eğitilmesini de bu Deep learning de falan siz derleme tuşuna bir basıyorsunuz
+12 gün 13 gün 20 gün bakın Derdiyok programı çalıştırmıyor daha programı derleyip bir sonuç üretecek Ondan sonra çalıştırılabilir
+modelist kullanacaksınız 14 gün sürüyor 14 günde insanlar uzaya roket gönderiyorlar Yani bu sürelerin
+düşünün ki 12 gününde Hata verdi bir şey yanlış programı derleme sırasında hata Alabilirsin bir şey yanlış yapmışsın
+2 gün sonunda Hata verdi veya derleme bakımından Hiç hata yok 14 gün bitti ama bir şeyi yanlış programlamanın yani yanlış
+sonuç istediğin sonuç değil mantıksal olarak doğruyu vermiyor Yani sen çarpma işlemi yapman gerekirken toplama yapmışsın Mesela ne yapıyorsun
+bir satır kot düzeltsin 14 gün bir daha dert ediyorsun şimdi 14 günü diyelim ki 7 güne düş
+%50 performansla çalıştırıyoruz programlama sürenin nasıl uzayacağını veya nasıl kısaldığını
+hakim olduğunuzda mümkün gelişen derleyici teknolojiler işte çok hızlı bu işleri yapabilsek hala daha belki Evet smile artık ihtiyaç yok diyebilir
+Ama adam 14 günde der diyor Sen bazı fonksiyonları hemen girip eserleriyle programlayarak bunu düşüre biliyorsun O yüzden
+üzerinde ekran kartı üzerinde esmer yazılabilecek yeni yeni turlar falan geliştiriliyor Yani aslında geçmişte kalan bir konu değil Biraz da böyle yavaş yavaş Trend de oluyor
+Çünkü işlemci hızları kapasiteleri artmıyor arkadaşlar çok uzun süreden beri işlemcilerin kapasiteleri artmıyor böyle olunca artık
+Avcılar'ın kabiliyetlerinin kapasitelerinin temelde artması bekleniyor Yani asam bu soruyu Aslında cevaplamış olduk as
+ne bu manada ihtiyaç var şöyle öğrenci arkadaşlar genellikle şunu söylüyorlar hocam Yani bizim programımız yavaş çalışıyorsa Algoritma
+algoritmanın Optimize edelim o yazdığımız dilde bir optimizasyon gerçekleştirip daha iyi kullanalım
+yani algoritmanın Zaten Optimize et yani algoritmanın Optimize ettikten sonra sen biriyle Yaz Yine hızlı yani burada algoritmanın optimizasyon
+Esen
+Bu da önemli dikkat edilmesi gereken hususlardan birisi şimdi Tabii bellek çok ucuzladı tabii yani benim Şuradaki
+şey için proje için kullandığımız bilgisayarda bile 64 GB bellek var bazılarınız da belki 128 Gb bellek vardır ekran kartlarının
+arttı gitti işlemciler artık iyi 10 alıyorsun i11 çıktı mı bilmiyorum siz benden daha iyi takip ediyorsunuzdur i10 alıyorsunuz 10 çekirdekli işlemci
+Yani hala daha sen bile gerek var mı sorusunun cevabı evet var Hiçbir zaman şunu unutmayın bütün hala daha diller bütün
+Esen bilye çevrilerek şey yapılıyor bilgisayar tarafından çalıştırılıyor ve her yeni işlemci ailesinin veya işlemcinin ınstruction
+yayınlanıyor yani o işlemcide kullanabileceğiniz özel komutlar var ve o özel Komutları asan bildiri yazarak kullanabiliyorsunuz tamam derleyicilerin
+seviyelerine göre onları mesela son haftaya yakın göreceğiz yani derleyici bizim yerimize Optimize etsin bu iş ınstruction seti bizden daha iyi bilmiyor mu gibi
+sorularınız olabilir sizin kullandığınız idrarın birçoğunun derleyicisi eski versiyondur öyle derleyici yenileyip kullanmak hemen çok kolay bir şey değil bu da
+hususlardan birisi Hasan Bilgili taşınabilir değildir sorusunun cevabını bu derste göreceğiz hem Linux ortam
+hem de Windows ortamında işte Mac ortamında her birisinde ayrı ayrı Esen bile komutu yazacağız Bu ders kapsamında onu görmüş olacaksınız
+katkısı olacak veya soru sormak isteyen arkadaş var mı Evet bu sessizlik yoktur
+gibi şu doğruları da işleyelim anlatalım Ondan sonra bir ara verelim Müsadenizle hızlıdır Evet yani
+dönüştürülüyor ondan sonra
+çalıştırılıyor Asem bilye dönüştürülürken acaba üst seviyede adam şunu mu yapmak istedi bunu mu yapmak istedi bunu mu yapmak istedi derken çok jenerik bir insanı oluşturuyor fakat
+tam olarak Esen bile karşılığı ne yapmak istediğinizi bildiğiniz için evet daha hızlı çalışır bunu göreceğiz bellek üzerinde Az yer kaplar tabii yani siz şimdi
+program yazdığınızda programınızın smile dönüştürülmesinin uzun sürüyor kodla kodu normal smile koyduğuna göre ama bununla beraber çok da
+dosyaları geliyor yani üstüne O yüzden daha fazla yer kaplıyor yani hocam birisi 12 kilobayt Kaplamış diğeri 300
+Kaplamış Ne Farkeder sorusunun cevabı ise şimdi artık herkes akıllı ev sistemleri ile falan uğraşıyor biliyorsunuz yakın zamanda
+İşte bizim Suriye operasyonları şu anda Azerbaycan operasyonları var adamlar Savaş alanlarına tamam mı çatıştık alanlara
+işte parmak parmağının ucu kadar bir sensör atıyorlar tamam mı titreşimi algılıyor nemi algılıyor bir sürü şeyi algılıyor ve merkeze veri gönderiyor
+Ya sen bu ufacık şeyin içerisine 1 GB RAM koyabileceğim mi zannediyorsun yani o birimlerin üzerinde adam sana şunu söylüyor
+öyle bir ders almıştık o tarz şeyleri programladı 16 megabayt işletim sistemi dahil 16 megabayt Ramin var Buyurun
+Yani sen o zaman işte bellek üzerinde Bunlar da bu da bu arada tat konu yani buna iottie de diyorlar tamam mı
+Yani şöyle düşünün mesela evinizde uzaktan kumanda ile rengini değiştirebileceğiniz bir led düşünün var yani artık satılıyor
+mağazalarda takıyorsun kumanda ile Hatta telefonla Android uygulama ile değiştiriyor wi-fi'ye falan bağlanıyor Yani içinde bir şeyler bir kod var ki demek ki
+Fashion gerçekleştiriliyor bir bellek ihtiyaç var ve senin orada yazacağın şey çok yüksek bir olasılıkla sen bile yazmışlardır ve yazacağın şey ne kadar az
+o kadar önemli O yüzden yani kilobayt hesabını yapmayalım hocam diye öğrenciler çok söylüyor ama yapılması gereken de
+çok durum var mesela kalp pillerinde böyle bir şey var yani ufacık kalp pili veya bırakın kalp pilini adamın damarının içine tamam mı anjiyodan
+yeni teknolojiler biliyorsunuzdur damarın içeride Biz sensör gönderiyorlar adamın kanı akıyor ya kanıyla beraber O da dolaşıyor ne kadar küçük olduğunu düşünün yani o da dolaşıyor
+veri topluyor Düşünsenize veri topluyor adamın basıncı yükseldiğinde falan dışarıya alarm veriyor yani şimdi içerisinde bu ne demek bir kod çalışıyor
+yani o kanın içinde hareket edebilecek damarın içinde hareket edebileceği bir şeyin ne kadar belleği olabilir Bu soruların cevaplarını lütfen
+yetenekleri kabiliyetleri hem işlemciye hem de belleğe yüksek seviyeli dillere göre daha fazla hakim olduğundan ötürü kesinlikle
+yani Mesela Siz Side bir değişken tanımladığınız int a değişkeni ram'de oldu ram'in neresinde oldu bu soruyu biliyor musunuz
+ama Bakın bu dilde göreceğiz Tabii burada kullan öğrendiğiniz bilgi birikimleriyle
+beni dillerde yani Side piton da java'da falan program yazarken daha fazla hareket kabiliyeti kazanırsınız yargısı da oldukça doğru
+ilgili Şu an belki açıklama yapamam Ama derste ilerledikçe bunun ne kadar doğru olduğunu göreceksiniz Evet buraya kadar sorusu olan veya kat
+olmasını isteyen arkadaşlar var mı onları dinleyebiliriz
+hiç kimsenin bir sorusu yok zannımca tamam mola verelim çok net gitti hocam Teşekkür ederiz sesim mi gitti Ahmet anlamadım
+sesim gitti Anladım güzel lütfen siz de zaman zaman böl
+soru sorun bu ilk kısım biraz hikaye gibi Ondan sonra biraz daha böyle olay çetrefil içecek bir mola verelim onu 5 geçe burada olalım olur mu arkadaşlar
+5 geçe burada olalım Tamam olur o zaman teşekkür
+Evet tekrardan merhaba
+kaldığımız yerden devam edelim şimdi şey uyarısı yapmak istiyorum şu zoom'da olan isimlerini lütfen üstteki isimlerinizi de birebir aynı olsun
+bazıları sadece isimlerini yazmışlar bazıları Nick name ile katılmışlar çok enteresan yani onlara
+lütfen bundan sonra derslere katılırken makul bu sistem isminiz nasıl geçiyorsa o şekilde burada bir isimlendirme
+görmüş olalım Evet paylaşımı bir daha yapalım
+Evet sayı sistemleri şimdi tabii biz
+Türkiye'de yaşayan insanlar olarak en azından onluk sayı sistemine alışmış durumdayız her daim o şekilde
+düşünüyoruz ve o şekilde hesaplama yapıyoruz fakat bilgisayarda onluk sistemden ziyade kullanılan
+2'lik 16'lık ve 8'lik sayı sistemleri var Bunlar daha fazla kullanılıyor özellikle ikilik sistem O yüzden sayı sistemleri ile ilgili genel
+olarak bilgi sahibi olmamız gerekiyor şimdi bilgisayarda temelde işlemcinin içerisinde bulunan
+transistör devre elemanı ile beraber bir işlem gerçekleştirebiliyoruz bunun bu devre elemanlarını elektronik devr
+Mersin'de daha detaylı görürsünüz şimdi kabaca bir üzerinden geçiyor olalım Bu transistörlerin açık ve kapalı olduğu durum var açık
+durumda üzerinden akım geçebiliyor kapalı olduğu durumdaysa geçemiyor bunu bizim işte Evlerimizde kullandığımız
+lambaların anahtarlarına benzetebiliriz anahtarı açtığımızda lamba açılıyor anahtarı kapattığımızda lamba kapanıyor O şekilde düşünebilirsiniz açık olduğu durum
+devrenin açık olduğu durumlarda Biz dijital olarak bunu kodlayarak adına açık devrelere bir kapalı devrelerde sıfır diyoruz
+Şöyle ki mesela devre şimdi üçer Hatta birer saniyelik zaman dilimleri ile 10
+Melik bir zamana hükmetmiş olalım yani 10 saniyeniz var hepsini birer saniyeye böldük 10 farklı zaman dilim var mesela
+işte ilk saniyede devre kapalı 2 saniyede kapalı kapalı açık kapalı açık kapalı açık kapalı
+gibi düşünürsek bu aslında karşılık olarak işte 0 0 1 0 1 1 0 1 olarak dijital
+dönüştürülebiliyor yani devreden akım geçip geçmemesi ile alakalı bir durum Siz bu 1 0'ı Evinizdeki bu Lambayı açıp kapatan anahtarla da kodlayınız
+zaman dilimlerini karşı tarafa okuyan kişi doğru bir şekilde okuyorsa Aslında 1 ve 0 olarak sizin tam olarak ne söylemek istediğinizi anlayabilir bu
+2'lik sisteme İngilizce olarak veya bilgisayar jargonu olarak diyelim Türkçede de çok fazla kullanıyoruz çünkü baynard sistem
+sayı sistemi bayileri dediğimiz her durumda 0 ve 1 tabanında 0 ve 1 yani 2 tabanında
+işlemler aklınıza gelmesi lazım tabii gösterimi kolaylaştırmak için Oktay yani 8 tabanında sayılar ve hecede
+16 tabanında sayılarda bilgisayar işlemlerinde çok fazla kullanılıyor Şimdi biz Asem bileti
+neredeyse onluk sistem kullanmayacağız daha çok ikilik ve 16'lık sistem kullanıyor olacağız O yüzden bunlarla ilgili
+çıkartma Hatta ve hatta çarpma falan işlemlerini hakim olmanız gerekiyor taban aritmetiği özellikle liselerde
+bir sürü olduğu zannımca önceden bilerek geliyordu lise öğrencileri Arkadaşlar bu konuları Ben Lisede okurken vardı Mesela bunları bilerek 16
+tabanlı falan bilerek geliyorduk ama şimdi zannımca yok müfredatta o yüzden biraz biz bunları anlatıyor olacağız Her
+basamağı dijit diyoruz arkadaşlar basamağı dijit diyoruz ve her bir dijit bir biti temsil ediyor bizim için tamam mı 1 biti
+yani 1 bit kaç farklı değer alabilir ya 0 alabilir ya da 1 alabilir 2 farklı değer alabilir zaten bir şey iki tabanında
+Onun için kullanılabilecek rakamlar 0 ve 1'dir eğer bir şey 8 tabanında ise kaç farklı rakam kullanabiliriz 8 0 1 2 3 4 5
+7 bir şey onluk tabanda ise kaç tane rakam vardır 10 tane 0'dan 9'a kadar 10 tane rakam vardır yani burada gör
+her bir basamağı basamak dediğimizde de şöyle bir şey yani Mesela şunlar basamak olmuş olsun burada 5 tane
+bunların her birisine dijit diyoruz aynı zamanda Biz Arkadaşlar dijit her bir basamak ya 0 yazabilirim ya 1 yazabilirim tamam mı ya
+ya 1 yazabilirim her bir basamağı Burası önemli hususlardan sizin de dikkat etmeniz gereken hususlardan birisi
+1 8 tane bir araya gelerek Bir byte oluşturuyor Yani bu bir veri
+Mesela işte biz hatırlarsanız ilkokulda görmüştük Deste düzine gibi çeşitli şeyler vardı işte 12 tane
+eleman yan yana gelince bir düzine oluyordu burada da 8 bitlik ifadeye 1 tane ifadeye Biz bir
+diyoruz Tamam önemli hususlardan birisi bu Pekala niye 8 bitlik ifadeye Bir byte diyoruz onun şeyini şurada açıklayacak
+Şimdi şöyle düşünelim şöyle düşünelim 1 2 3 4 5 6 7 8 tamam mı ve bunların her birisine
+bir sayı yazmış olalım Şimdi bu Tabii 2 tabanında pardon şu şeyi görmeyin 2 tabanında bir şey
+bu 2 tabanındaki bir sayıyı 16 tabanına dönüştürmek istediğimizde 16 tabanına dönüştürmek istediğimizde
+Bakın şu dörtlü Grup bir sayı oluyor şu dörtlü Grup bir sayı oluyor çünkü niye burada kaç tane sayı var
+1 bitle Yani bir dijit ile kaç farklı değer ifade edebilirim 2 4 tane dijitim varsa
+4'ten 16 değer elde edebilirim Tamam o yüzden şurası bir 16'lık sistemde yazarsak 1 basamak şurası
+sistemde yazarsak 1 basamak bunların nasıl okunduğunu Göreceğiz ama şurası 6'ya karşılık gelir şurası b
+by karşılık gelir yani şu sayı 6 B imiş 16'lık tabanda bunların nasıl olduğunu görüyor olacağız yani o yüzden 8 bit 1 by
+Eğer ki 8 biti Biz ikilik tabanda 16'lık tabanda yazarsak 2 basamaklı 16'lık bir sayı olmuş
+pamuk kalemden kurtulamadım şimdi devam edelim Bu en anlamlı
+Yani yine onu da görselleştirme şu Bir byte Şu 1 byte düşünün basamakları düşün
+yani 123 yazsam mesela onluk tabanında Şuradaki 1 rakam değeri olarak en küçük olmasına rağmen 100 ile
+daha fazla bir büyüklüğü ifade ediyor O yüzden bizim göreceğimiz ne denir ona 80-86 mimarisinde
+Şuradaki basamak bizim için Most significant bit en anlamlı bit tamam mı solda bizim sistem
+bazen Bu sağda da olabilir Bir kendin ve
+BİST significant bit Tamam yani MSB dediğimizde Şurayı anlayın en anlamlı bitimi LCW
+en anlamsız değil bakın en anlamsız biti diye sınavda yazıyor Arkadaşlar en az anlamlı biti tamam mı anlamsız bit diye bir şey
+en az anlamlı biti
+sayıların sonuna b harfini koyuyoruz Çünkü B koymayız durumda onları onluk tabanda bir sayı olarak değerlendiriyor sistem ne
+istiyorum mesela bakın 101 yazayım Siz Eğer 101 yazarsanız programa bizim bildiğimiz onluk tabanda bir
+karşılık gelir ama sonuna b harfini eklerseniz artık bu 1 0 1'dir Bu arada bir şey bayileri ise yani ikilik tabanda ise o 101
+okunmaz okurken 1 01 diye okunur Tamam onluk tabandaki şeyler işte 101 123 gibi okunur Tamam Sonuna
+Eğer ki hexa desimal ise yani 16'lık tabanda ise sonuna H koyuyoruz arkadaşlar mesela 12.16 tabanda ise sonuna h
+veya veya 8'lik tabanda olabilir Oktay onun sonuna da 0 koyuyoruz bakın 12 Oktay sıfır
+Pekala Ya şu sıfırla bu 0 karışmıyorum işte burada zurnanın zırt dediği yer Biz arkadaşlar 0 kullanacağımız
+için bu derste sıfırın içine bir çizik atıyor olacağız O o ile 0 karışmasın diye özellikle insan yazısında bilgisayar yazısında Belki çok karışmıyor ama
+karışabiliyor sıfırlarım Üzerinde şöyle bir çizik göreceksiniz o ile karışmasın diye çünkü karışırsa şu 120 mi 12
+Otel mi Yani bu sorunun cevabını veremeyiz Bu da dikkat edilmesi gereken önemli hususlardan birisi şimdi bakın
+bizim 8 bitten oluşan ifadelere onluk Tabana dönüştürmek için nasıl bir şey kullanmamız lazım
+ona dikkat etmemiz gerekiyor bakın şurada bir sayımız var 1 0 1 1 0 1 0 1 Bu sayı Bu sayı
+tabanda kaça karşılık gelir Bunu hesaplamak istiyoruz hesaplarken şunu yapıyoruz Arkadaşlar en az anlamlı biti 2 üzeri sıfırla
+sonrasındaki biti 2 üzeri -1 ile sonra 2 üzeri 2 üzeri 3 2 üzeri 4 2 üzeri 5 256 ve 2 üzeri 7 ile çarpıyoruz Yani şöyle
+2 üzeri 7 x 1 oda 2 üzeri 7'nin tam karşılığını şuraya yazmış oldum ben 128 x 1 128 2 üzer
+64 eder 64 x 00 32 x 1 32 16 x 1 1600 4 x 1 = 4 2
+001 x 1 1 daha sonra Şu aşağıda gördüğünüz 128 32 16 4 ve 1'i topluyoruz 18
+değerini elde ediyoruz yani ikilik tabandaki 1 0 1 1 0 1 0 1 değeri onluk tabanda 181 karşılık geliyormuş
+burada sorusu olan var mı Evet bu sessizlik Her Şey Çok şahane
+berraklığında anlaşılmıştır demek o yüzden devam ediyoruz şimdi çeşitli işlemler yazarak soru sormayın demiştik ama hadi bu derse
+çok iyi gidiyoruz da Ahmet Tanrıöver sesli söyleyebilir çok mutlu oluruz şimdi
+toplama yapalım toplama yapalım yani bayileri toplama yapalım nasıl toplandığını görüyorum Tabii şu yazı rengimizi
+daha makul bir renk haline dönüştürür sizin adınıza daha güzel olacaktır Mesela kırmızı Yazalım bakalım Kırmızı mı Evet kırmızı şimdi toplama yapalım
+daha önce hiç toplamış belki baynard sayıları diye O yüzden topluyorum toplamada çok büyük
+profil yok çıkartma biraz daha sizin dikkat etmeniz gereken husus ama toplama ile başlayalım mesela onluk tabanda 73 ile onluk tabandaki 6
+topladığımızda bizim elde edeceğimiz sayı 135 dir değil mi şimdi onluk tabandaki 73
+bayneri karşılığı nedir bakın baynard karşılığını yazarken nasıl yazıyorum Sonuçta şuraya 8 bitlik bir Yani bir
+bir değer yazacağım Niye Çünkü 1 byte ile maksimum ifade edebileceğim sayı nedir Arkadaşlar bu sorunun cevabını Kim söyleyebilir
+maksimum kaç yazabilirim buraya 256 mıydı hocam Evet 256 diyen var Başka yorumu olan 250
+Evet 255 niye Burada gördüğünüz bütün sayıları 1 1 1 1 1 1 1 1 1 1 1 yazdığımızda sonuncusu bir kere 1 olduğu için tek olacak yani
+256 farklı sayı yazabiliriz ama o sayılardan birisi 0 olduğu için maksimum yazabileceğimiz sayı 255 dir yani
+sıfırdan 255'e kadar saydığımızda kaç sayı sayarız 256 sayısı sayı sayarız O yüzden 256 diyen Arkadaşlar doğru söylüyor şimdi bunu yazarken
+şurası bakın bir sefer bunu yazayım bir daha yazmıyorum şurası 128 idi şurası 64 ile çarpıyordu 32 ile çarpıyordu 16 8
+4 2 1 ile çarpıyor şimdi bu sayının içerisinde 70'in 73 ün içerisinde 128 var mı Yok buraya 0 yazdım Tamam 64
+bir tane var 73 tane 64 çıkar 9 9 kaldı geriye 9'un içerisinde 32 var mı Yok 16 var mı
+yok 9'un içinde 8 var mı Evet var 9'dan 8 çıkar 1 kaldı 1'in içinde 4 var mı Yok 2 var mı yok 1 var mı var yani
+gördünüz 0101 sayısı 73 Arkadaşlar bunun baynur olduğunu söylemek için ise muhakkak sonuna b harfini
+62 sayısı nedir 128 yoktur 64 yoktur 32 vardır içerisinde 32'den şey 62'den 32 çıkartır
+geriye 30 kalır 30'un içerisinde bir tane 16 vardır 30'dan 16'yı çıkartırsanız 14 kalır 14'ün içerisinde bir tane 8 vardır
+14'ten 8'i çıkartırsanız geriye 6 kalır altının içerisinde bir tane 4 vardır 6'dan 4'ü çıkartırsanız 2
+2'nin içerisinde bir tane 2 vardır 2'den 2'yi çıkartırsanız 0 kalır ve sıfırın içerisinde 1 yoktur şimdi 62'nin de bayileri karşılığı
+bu dönüşümün Nasıl yaptığını Anladınız mı yani 62 yy nasıl bayileri tabanına dönüştürdüğünü Anladınız mı Evet hocam Evet hocam Süpersiniz
+arkadaşlar topluyoruz şimdi toplarken Şuradaki şeyi silelim daha güzel
+Çünkü eldeler falan yazıyor olacağız burayı anladığınızı varsayarak siliyorum şimdi 1 ile
+topluyoruz 1 0 ile 1'i topluyoruz 1 0 ile 1'i topluyoruz 1 1 ile 1'i topluyoruz 2
+ikilik sayı sisteminde 2 erişilebilecek maksimum değer yani bir sonraki basamağa geçmemiz gereken Değerdir yani Mesela şöyle söyleyeyim onluk
+5 ile 5'i toplayınca 10 oluyor tamam mı Ne yapıyorsunuz siz o onun sıfırını kenara koyuyorsunuz şöyle birini
+bir sonraki basamağı elde olarak veriyorsunuz Burada da öyle maksimum değer 2'dir 2 olduğu için sıfırını buraya yazıyorum birini bir sonraki basamağa Veriyorum 1 ile 1'i topladım 0
+bir sonraki basamağı elde gitti 1 0 biri toplarsan 0 bir sonraki basamağı elde gitti 1 0 biri toplarsan 0 bir sonraki
+elde gitti 1 0 1 1 0'ı toplarsan 0 bir sonraki basamağı elde gitti 1-0 toplarsan 1
+eve bir sonraki basamağı elde gitmesine gerek kalmadı gittiği durum da olacak birazdan onu göreceğiz Şimdi şu neydi 128 +
+Neydi 4 Şu neydi 2 Şu neydi 1 bunları toplarsak 135 yapıyor
+bakın zaten bunların ikisinin toplamı 135 dir şu da byner evet sorusu olan var mı burada
+Bu Derin Sessizliği yok olarak algılayıp çıkartma işlemine geçiyorum Müsaadenizle arkadaşlar çıkarmayı nasıl yapıyoruz
+onu da görelim Çünkü orada da elde alacağız şimdi çıkarmanın 2 versiyonu var virajın 1 ile başlayalım diyelim ki 67 den
+ise biri çıkartalım elde etmek istediğimiz sayı 46 67 yy yazalım 128
+bir tane 64 var içerisinde geriye 3 kaldı 3 olduğu için 32 yoktur 16 yoktur 8 yoktur 4 yoktur
+ve 1 vardır Tamam bir süre sonra o kadar alışacaksınız ki bir onluk tabandaki sayıyı böyle sanki
+yazıyormuş gibi burada yazabilir hale geleceksiniz ben Siz alışın diye biraz böyle hani şey kodlayarak yazıyorum hala ama bir süre sonra siz de hızlı
+başlayacaksınız 21'in içerisinde 128 yoktur 64 yoktur 32 yoktur bir tane 16 vardır 8 yoktur geriye kalan 5'in içerisinde
+bir tane 4 vardır Bir tane de 1 vardır Tamam şimdi bu ikisinin birbirinden çıkartacağız artık Bir çıkartma işlemi
+nasıl çıkartıyoruz 1'den 1'i çıkarttık 0 kaldı oluşacak sayıda bayileri Bu arada tabii 1'den 0 çıkardık 1 kaldı
+Evet bakın zurnanın zırt dediği yere geldik sıfırdan 1 çıkmaz hatırlıyorsanız böyle ödünç alıyorduk yani onluk tabanda işlem yaparken ödünç alıyor
+Burada da ödünç alacağız almaya çalışalım çalışalım çalışalım şuradan alabiliriz diyormuş tamam mı Şu biri ödünç aldığımızı düşünelim şu biri ödünç aldığımızı düşünelim Burası artık 0
+ödünç aldıktan sonra daha sonra şuralar 1 1 şurası ise 1 + 1 olacak yani Nasıl oluyor da hatırlarsanız 9 9
+9 artı 1 oluyordu burada da erişilebilecek maksimum sayı 1 1 1 1 + 1 tam yani şurası 2'den 1 çıkartırsak 1 kalır
+1'den 0 çıkartırsak 1 kalır 1'den 1 çıkartırsak 0 kalır 1'den 0 çıkartırsak 1 kalır şu ikisi de
+şimdi şey yapalım şurası ne 32 Burası ne 8 şurası 4 şurası da 2 arkadaşlar
+bunların hepsini topladığımızda 46 bakın 46 Tamam hocam ben 1 + 1 kısım
+Evet tamam çok güzel Ben de hocam O kısım Tamam onluk tabanda bu işlemi yapalım 20017
+5 3 135'i çıkartalım tamam mı Nasıl çıkartıyoruz 7'den 5 bu onluk tabanda yapıyorum bakın Şuradaki işlemi
+tabanda yapıyorum arkadaşlar Kafanız karışmasın 7'den 5 çıkartıyoruz 2 kaldı değil mi ardından 1'den 3 çıkmaz 1'den 3 çıkmadığı için hatta Hatta şöyle yapalım
+0 olsun Bir sileyim de güzel anlaşırsın Madem anlamadınız Ben de karman çorman anlatmayayım Şurayı bir silelim daha büyük
+farklı bir işlem olursa kafanızda daha güzel canlanır bir anad getirdim o yüzden şey yaptım şimdi diyelim ki
+şöyle bir şey olmuş olsun 2 00 şurasında bir 3 4 4 olsun tamam mı böyle bir şey
+şuradan ayrılıyor Arkadaşlar şimdi çıkartma da şurası 5'ten 7 çıktı 2 1'den 3 çıkmaz ne yapmam lazım
+gidip ödünç sistemini Al yanıma gidiyorum yok yanıma gidiyorum Yok yok şuraya geldim tamam mı buradan bir tane ödünç aldığımda şu 2'yi silip kaç kalıyor burada
+Pekala Ödünç aldım ama nereye ödünç aldım şuraya aldığım ödül sayı 10 bakın 10 yani şuraya
+10 ekledim 10 artı 1 Fakat şu onu nasıl yazıyorum ben nasıl yazıyorum şöyle yazıyorum 9 artı 1 diye yazıyorum aslında
+ödünç aldığında buraya gelinceye kadar Şuradaki sınırların tamamına 9 olmuyor mu 9 oluyor yani 1 9 9 9 9 9 Yani şöyle düşünün
+Ben aslında 200.000 sayısından bir tane 10 çıkartıyorum 200.000 sayısından bir tane 10 çıkartırsak kaç kalır işte 19
+9990 kalır yani 990 kaldığı için şurasının 10 olması lazım O da 9 artı 1 Bir de kendiliğinden vardı zaten
+11'den 3 çıkartıp daha sonra 8 diyoruz burada da aynı şimdi şurada bir 1 vardı bu biri ben alırken getirirken
+1 1 ve 1 diye getiriyorum getirdiğim basamakta tam bir sayı aldığım için bu 2 oluyor şurada nasıl 9,9
+en sonunda 9 + 1 10 getiriyor daha sonra 10 ile 1'i toplayıp 11'den 3'ü çıkartıp 8 yapıyorsan Burada da böyle 1 1 1 getirip daha
+onu bir de topluyorum Yani bu 10'luk tavanda da aynı böyle 2 Ediyor 2'den 1 çıkartıyorum 1 kalıyor
+şimdi bakın Virgin ikisini yapalım biraz daha güzel canlanacak kafanızda En azından daha yani Virjin biri biz mesela kafanızı biraz
+ama biraz işlem yaparsanız anlarsınız fakat Virjin 2 bilgisayar programcılığı bakın daha fazla kullanıyor Hatta ve hatta
+işlem yaparken bu şekilde işlem yapıyor bakın Virjin 2 neydi 67 den 21'i çıkartmış 46 kalmıştı
+67 yy yazılım tekrar bunları böyle kafanızda güzel otursun diye yazıyorum yani bugün ilk ve son yazışım Ondan sonra tak diye anlatmadan yazıp geçerim
+128 yok 64 bir tane var 32 yok 16 yok 8 yok 4 yok 2 var 1 var 2 nerede
+64 olduğu için 67 den 64 çıkar 3 kaldı 3'ün içinde bir tane 2 var 3'ten 2 çıkar 1 kaldı 1'in içinde 1 tane 1 var Tamam 21 yazalım
+128 yok 64 yok 32 yok 16 var Geriye 5 kaldı 8 yok 5'te 1 tane 4 var Geriye 1 kaldı o da şu
+şimdi yapacağımız işlem şu Arkadaşlar şu sayı 21 Ya öncelikle
+bu 21'in tümleyeni alıyoruz bakın üzerine bir çizgi koyuyoruz bunun için şuraya yazalım tümleyen tümleyen
+nasıl alıyoruz sıfır gördüğümüz yerlere bir bir gördüğümüz yerlere 0 yazarak 0 1
+21'in 1 tümleyeni daha sonra ikinci tümleyeni alıyoruz 2 tümleyeni almak için oluşan sayıyı
+topluyoruz Tamam oluşan sayıyı 1 ile topluyoruz 1 1 0 1 0 1 1
+arkadaşlar oluşan şu sayı ikilik tabanda bayileri sayısı 21'in 2 tümleyeni Tamam 2 tümleyen
+Yani aslında şu sayı Biz 2 tümleyeni aldığınızda Bir sayının ne yaparız şu sayı artık arkadaşlar eksi 21
+Bir sayının 1 tümleyeni nasıl aldığını gördük ikinci tüm l'nin de alırsak o sayının onun içinde 1 eklememiz gerekiyor o sayının negatif
+Pekala ben artık şunu yapsam nasıl olur 67 ile -21 i toplasam tam toplama işlemi daha kolay ya öyle yapsam
+daha güzel olur şimdi şu -21 idi 67 de bunun altına yazıyorum şöyle yukarıdan Bakarak yazıyorum
+çok özür diliyorum toplayalım artık toplama işlemi
+yapacağım Tamam 1 ile 1'i topladım 0 Elde var 1 1 1 1 1 1'i topladım 1
+1 0 0 topladım 1 Elde yok 1 0 topladım 1 Elde Yok sıfırla sıfırla topladım 1 ile 1'i
+1 1 ile 1'i topladım 0 Elde var 1 1 ile 1'i topladım 0 Elde var 1 bakın elde
+biri gidiyor Onu şöyle ayırıyorum Çünkü biz Bir byte bir işlem gerçekleştiriyoruz buna taşma diyoruz Ondan sonra bu taşın ne olduğunu
+şu sayının ne olduğuna bakalım 128 32 şurası 16'dır Pardon şurası
+nereden çıktı 16 32 + 8 + 4 + 2 = 46 bakın yine 46 sayısının bulduk tamam
+Yani iki şekilde de toplayabilirsiniz önce ikiye tümleyeni alıp topladığınızda da aslında çıkartmış oluyorsunuz yani matematiksel olarak zaten Bunu biliyorsunuz Evet sorusu olan
+hocam taşıma önemsiz değil mi Hani taşmaya atacağız taşımayı
+taştığını bilmemiz lazım tamam mı
+çıkarttığımız da yani taşımayı hiçbir şekilde değerlendirmeye almamıza gerek yok ama bakın şöyle bir durum söz konusu olsun yani yine bir çıkartma işlemi
+sefer 21'den 67 çıkartalım Tamam mesela burada bakın işler değişecek 46 mı yine 46 ama
+-46 doğru mu yani 21'den 67 çıkartıyoruz doğru mu 21'den 67 çıkartırsak 46 mı kalır
+Evet evet güzel -46 Ama şimdi bunu yaparken bu sefer 21
+kendisine alalım 67'nin 2'ye tümleyeni alıp toplayalım arkadaşlar bulmak istediğim sayı ne ama -46 yani
+bayileri olarak Negatif bir sayı nasıl elde ediyorum bakın o da çok güzel eğlenceli olacak 128 yok 64 yok
+32 yok 16 var Geriye 5 kaldı 8 yoktu Şurada da bir şey olması lazımdı
+4 var 2 yok 1 var değil mi 8 basamaklı oldu mu Oldu Tamam güzel
+yazarken önce bire tümleyeni şuraya yazalım Tamam direkt şey 67 yy şuraya yazıp bire tümleyen alalım 2'ye tümleyeni alıp 2'ye tümleyen de şuraya yazayım
+67 128 604 32 yok geriye 3 kaldığı için sona doğru
+diyoruz arkadaşlar 1 1 bayileri şunu da baynur olduğunu yazalım 1'e tümleyeni bakın nasıl alıyorum şu sayı 60 hop
+şu sayı 67 bira tümlerini alırken 0/1 birileri sıfır yapıyorum 1 1 1 0
+Bu sayı pardon şu 67'nin kendisi şurada bir şey yok şu da 67'nin 1'e tümleyeni 2'ye tümleyeni alırken ise bunu
+Bir de topluyorum şöyle sorular oluyor Az önce yazdım biraz farklı olsun diye hocam 1 ile topluyoruz ama onluk tabandaki birilerini topluyoruz
+kilit tabandaki birilerini topluyoruz gibi sorular geliyor bu sorunun cevabını lütfen düşünün ne olduğunu bu da
+67'nin 2'ye tümleyeni Yani bizim anlayacağımız dille -67 dir arkadaşlar Tamam -67 bakın
+şuraya -67 yazıyorum 1 1 1 0 1 Pioneer artık 67 - olduğu için
+bunları toplayabilirim Bir de biri topladım 0 Elde var 1 1 0 biri topladım 1 Elde yok
+1 1'i topladım 0 Elde var 1 1'i topladım 0 Elde var 1 1
+topladım 1 Elde var bir 1 0 biri topladım 0 Elde var bir 1 0
+sıfırı topladım 1 elde hiç yok 0 ve 1'i topladım 1 elde ettiğimiz değer bu
+şimdi yaptığımız işlemin neticesinde sayının negatif çıkma işlemi varsa kullanacağımız
+sistemi işaretli sayı sistemi arkadaşlar sayı sistemi işaretli
+sisteminde ise en anlamlı bit yani buna Ne diyorduk MSB most significant bin ne denir ona
+negatifin veya pozitifin göstergesi işaret biti yani işaret biti sıfırsa sayı pozitif
+1 ise sayı negatiftir negatiftir Tamam şurada bakıyoruz işaretli sayı sistem
+şurada bakıyoruz en anlamlı Bitene 1 O zaman bu sayı negatif bu sayının pozitif hali nedir diye düşünürsek bu sayının
+önce bira tümleyeni alalım bakın önce negatif sayı Çünkü pozitif yani negatiften pozitife dönüştürürken de 2'ye tüm nemini alıyoruz pozitiften ne
+dönüştürürken de ikiye tüm değerini alıyoruz yani çift yönlü de 2 et ürünlerini alabiliyoruz bir gördüğüm yere 0 şu yukarıdan 0 gördüğüm yere 1 yazıyorum bakın
+01 ardından bunu bir de topluyorum ki 2'ye tümleyen alınsın şu bayileri Bunları yazmayı unutuyorum ama şu da bay
+0 1 1 0 1 0 Evet
+şimdi bu sayıda bayileri bir sayı bayileri bir sayı Pekala Bu sayı kaçtır bakalım şu kaç
+32 şu kaç 8 4 ve 2 toplarsak 46
+sayının değerinin ne olduğunu 2'ye tümleyeni alarak 46 olduğunu öğrendik yani şu sayının şu sayının Öncelikle mostik nefes
+baktık bakın işaretli sayı sistemi için konuşuyorum arkadaşlar işaretli sayı sistemi kullanıyorsak Eğer Moss significant bitine baktık
+1 olduğu için bu sayı negatiftir dedik bir kere başına negatifi koyduk tamam mı Ondan sonra bu sayı negat
+O zaman ben bunu ikiye tümlerini alayım ki pozitif karşılığını bulayım 2'ye tümleyen ne aldım şu bira tümleyeni şu da 1 ile toplayıp 2'ye tümleyeni ve
+öyle buldum bu işaretli sayı sistemi için Eğerki işaretsiz sayı sistemi kullanıyorsak Pekala işaret bakın işaret
+sayı sisteminde Bunun değeri kaç 46 işaretsiz sayı sistemi kullanıyorsak işaretsiz sayı sistemi kullanıyor
+Bunun değeri kaçtır direk 1'den başlıyorum yani Şuradaki birden başlıyorum 128 + 64 + 16
++ 2'dir bunun karşılığı O da kaç eder şurası kaç 80 82 0
+02 mi 1 210 mu toplayamadım Neyse siz toplarsınız 10'luk tabanı Benden iyi biliyorsunuz Yani eğer ki işareti
+bu sayının karşılığı bu işaretli sayı sistemi ise bu sayının karşılığı bu Tamam bu aradaki farkı anlamışsınız
+diye ümit ediyorum sorusu olan var mı
+sesim geliyor mu Pekala Veli Hoca diyor Hocam süper o zaman anladığınızı varsayıyoruz sorunuzda yoksa
+şimdi bunlara geçmeden önce mi yapan geçtikten sonra mı yapalım Neyse şimdi bir iler
+daha sonra çeşitli şeylerde üzerinden geçip anlatıyor olacağım şimdi Tabii Biz ne dedik kıymetli arkadaşlar
+bir ikilik taban var Bir onluk taban var ama bir de 16'lık taban var ve 8'lik taban var
+Neyse herhalde birazdan durumunu şimdi onluk tabanda 2'lik tabanda 8'lik tabanda ve 16
+sıfırdan 15'e kadar sayıların yazılımını şurada görelim bay Nerede 0 yazarken zaten 0 Oktay de Bakın Şu son
+O biraz yatık görebiliyor musunuz bilmiyorum ama bilgisayarda yazarken içini çiziyor o'yu biraz yatık yazmış şu sıfır şu o karışmasın 0
+veya 0,20 değil 01 Oktar ile karşılık geliyor şimdi 7'ye kadar yazarken hexe desimal de de zaten sonuna h koyuyorduk
+güzel bir şekilde ilerliyoruz şu bayinin ilerisinde de artık zaten bunun nasıl gittiğini sizde görüyorsunuz burada çok güzel bir paten vardır sayarken bakın eğer ki ilk
+Her yeni sayıda dijit değişir 01.01.01 diye gider 2 basamakta iseniz 2 sayı
+gider 3 basamakta iseniz 4 sayıda bir dijit değişir 4 0 4 1 4 0 4 1 diye gider
+3 basamaklı iseniz 2 üzeri 3'ten 8 sayıda bir değişiklik bakın şuraya geldiğimizde 8'e geldiğimizde 1'i gördük Oktay 7 den sonra kaç gelir
+8 ama 8 8'lik tabanda olmadığı için o 10 oluyor artık 11 12 13 14 15 16 17 diye gidiyor buradaki önemli
+Ruslardan Birisi şu Oktay'ı Belki biz çok kullanmayacağız Yine ses hesaplamalarını bilin fakat Excel'de ihtimali çok kullanacağız hexe ihtimalde 8-9
+nun da bir rakamı vardır arkadaşlar Sonuçta 16'lık tabanda 16 tane rakam olması lazım 16'lık tabanda 16 tane rakam varsa 1 0
+10 tane rakam biliyorsan geriye 6 tane daha rakam olması lazım işte a b c d e f bunlar
+birer rakamdır Onun karşılığı olan rakam 10 tamam mı 10 yazalım 11 12 13 14
+15'in karşılığı olan f değeri Mesela şöyle bir şey daha önce hiç gördünüz mü bilmiyorum Mesela 12
+F işte 1-c 0'a 42 17
+mesela böyle bir rakam yazılı arada ikişer noktalı olarak gördünüz mü hiç bilmiyorum mesela Mac adresleri donanımların Mac adresleri genellikle böyle
+donanım adresleri burada F falan karakter değildir yani bunu gördüğünüz anda ne anlayacaksınız her bir şurası 16'lık tabanda
+Tamam 16'lık tabanda yazılmış yani şurası 2 tane 16'lık tabandaki 2 dijit kaç bit ediyordu Kim söyleyebilir bu soruyu
+Seçil değil miydi Hocam 8 bit Süpersin Tebrik ediyorum ve alkışlıyorum seni yani bir bayt Bir byte ile maksimum Şuraya kaç
+255 255 255 255 255 255 255 yani 256 tane sayı yazıyoruz 256 üzeri
+farklı Mac adresi elde edilebilir mi dünyada burada sorusu olan var mı cam şu 5 ile 6'nın ortal
+gösterimi aynı gözüküyor da Sıfırdan mı başlayacaktı odaya suratıma gibi bir sıkıntı var galiba üst tarafta sıfırdan başlıyor çünkü çok güzel Evet
+Evet burada bir hata var arkadaşlar sıfırdan başlayacak bunu tespit etmeniz sizin de güzel oldu sıfırdan başlayacak şurası bir bir kayacak yani tamam
+teşekkür ediyorum bu kattığınız için onu düzeltelim Aslında 2 yıldır bu şekilde anlatırız ve her seferinde arkadaşlar söylüyor düzeltme yapıyoruz İnşallah önümüzdeki yıla düzeltmiş oluruz
+Şimdi gelelim bizim sistem organizasyonumuzu yani sistem derken bizim işlemcinin içerisinde
+neler olup bittiğini bu derste görüyor olacağız O yüzden çok spesifik bir derstir yani bilgisayar mesela hard disk olmadan çalışıp ekran kartı olmadan çalışır ama işlem
+olmadan çalıştıramazsınız ve burada işlemci ve RAM'i bu derste doğrudan kontrol eden bir dil üzerinde işlem yapıyor olacağımız için
+veremin bütün kabiliyetlerini bizim hakim olmamız lazım O yüzden işlemcinin işlemcilerin çeşitli mimarileri var 80 8
+Mimar Sinan Liman mimarisi deniliyor şimdi Central processor kısaltılmışı cpu diye
+Belki bu kelimeyi daha önce duymuşsunuzdur cpu'nun Türkçede tam karşılığı Aslında Merkezi işlemci birimi fakat cpu biz direkt işlemci diye çevir
+Yani ben işlemci ve merkezi işlem birimi dediğimde aynı şeyleri anlayıp ikisi birbirinden farklı şeyler değil şimdi bakın
+işlemcinin içerisinde bir kontrol unit var ki bu kontrol ünitesi çeşitli elektronik devrelerden oluşan yap
+işlemlerin ne şekilde yönlendirilecek karar veren bir birim Bir de aritmetik lojik unit var yani sizin Aritmetik işlemlerinizi
+çıkartma çarpma bölme gibi işlemlerimizi kesirli olmayan yani virgüllü olmayan virgülle sayılara ne denir floating point
+İngilizce floating point olmuyor yani integer tam sayı işlemlerin gerçekleştiren bir aritmetik birimi gerekirse platin Point işlem
+ayrı bir aritmetik birimi Bir de lojik işlemleri gerçekleştiren ve veya egzoz gibi işte bunları da biliyorsunuz böcek dersinde bu deneme alıyorsunuz
+gerçekleştiren bir unit var bizim cpu içerisinde Tabii daha Birazdan göreceksiniz Bunu daha da genişleteceğiz fakat ilk etapta
+Tabii bir de RAM var Memory unit denilen kısım burada RAM arkadaşlar ram nedir ram'in açılımı bilmeyenler
+söyleşi veya yazalım RAM Tabii beyaz beyaz saç çok daha güzel olur rengi zaman zaman böyle farklı şeylere değiştirmemiz gerek
+farklı slaytlarda şuraya yukarıya yazalım o zaman RAM Memory unit denilen kısım o Random
+Axess Memory yani Türkçe'ye direkt çevirirsek rastgele erişimini bellek deniliyor bir şey rastgele
+onu da birazdan görüyor olacağız yani bakın RAM ve işlemci birbirinden ayrı şeyler Öncelikle
+Yani bir bilgisayar mühendisi olup da 2 sınıf öğrencisi olup da masaüstü Bir bilgisayarın kasasını açtığınızda size sorulan herhangi
+donanımın ne olduğunu Söyleyebilecek kapasitede olmanız lazım Çok samimi söylüyorum 3 sınıfa gelip de hayatında hiç RAM işlemci görmemiş arkadaşlar var
+Yani bu bir bilgisayar mühendisliği için utanç kaynağıdır O yüzden evinizde masaüstü bilgisayarınız varsa ve daha önce içini hiç açmadınız bugün
+açıp içerisinde neler olduğunu internetten de araştırarak öğrenin Tamam mezun olmadan kendiniz yapamazsınız bile başka birisi için bir bilgisayar
+toplayın Yeni bilgisayar alımlarında veya işte birleştirmede Yani bu bizim derste öğreteceğim size şeylerden birisidir
+buna zaten halihazırda hızlı bir şekilde 1 sınıf başladığınızda temelde öğrenmiş olmanız lazım ram nedir bana
+bilmen lazım yani tamam Burası önemli hususlardan birisi Tabii bir de işlemci ve Memory buna biz artık Vanlıyım anda bir bilgisayar
+mimarisi diyoruz sistem organizasyonu diyoruz bakın hard disk ve doğrudan işte ekran kartını falan çalışması için ihtiyaç yok onlar
+çalışabilirler Bir de input device lar var bu sisteme bağlanan yani ne olabilir Bunlar işte kamera benim görüntümü görüyorsunuz veya Mouse klavye
+Ey gibi çeşitli imput diye ağaçlar olabilir Bir de Outlet var O da ne olabilir Monitör ekran veya işte Yazıcı tarzı bir de output
+olabilir evet şimdi birimler arasında Tabii burada böyle bu birimleri karelerin
+alıp koymuşuz Ama bu birimlerin arasında yollar var bunlara bas diyoruz arkadaşlar temelde 3 çeşit bass var yol var yani Birisi ADR
+veri Yolu ve kontrol yolu adres yolundan ram'de bulunan hangi adreslere veya işte bizim işlemcinin kapılarının hangi
+olduğunu adresleri gönderebileceğimiz bir yol var işlemcinin üzerindeki bacaklarla sağlanıyor bu ve yine veri yolu var veri yolu
+Mesela bir veriyi ram'den alıp işlemciye getireceğiz işlemciden alıp başka bir yere götüreceğiz bu durumda da veri yolunu kullanıyoruz bir de
+şu an bazı Yolları veri ve adres yolu olarak kullanabiliyoruz biz şu an veri mi göndereceğiz adres mi göndereceğiz kontrol yoluyla da
+belirliyoruz bu dersin ilerleyişini de işleyişinde bunlar daha güzel anlaşılıyor olacak yolların Tabii tipleri var paralel ve seri olmak üzere şöyle
+Şimdi onu yine paralel ve siri'yi yapabilirsem çizeyim paralel Yollar şu şekilde oluyor arkadaşlar mesela 7-8
+8 farklı kablo var aynı anda her birisinden 1 bit değer gönderdiğimi düşünün şöyle 8
+olmak zorunda değil tabii 32 de olur yani 40 da olur Nasıl ne kadar paralel yapmışlar tek bir clock da yani clock demek ne demek tek bir
+8 tane veri karşıya gidebiliyor arkadaşlar seride ise tek bir kablo var bu veri ardışık bir şekilde
+önce şu gidiyor Sonra bu gidiyor Sonra bu gidiyor tahmin edersiniz ki şu biraz daha hızlı çalışıyor fakat kablosu daha kalın oluyor 40 olduğunu düşünmeli daha
+şu biraz daha Belki buna göre paralel olmadığı için yavaş çalışıyor ama daha ince bir kablo yani yolları da bu şekilde temelde ikiye
+ayırabiliriz paralel ve seri olarak Buraya kadar sorusu olan var mı Yok güzel
+bir mola verelim bir mola verelim yine saat 5 geçe 11.05 burada olalım arkadaşlar sonrasında devam edelim Olur mu 11
+burada olalım sonrasında devam edelim Evet siz de çayınızı suyunuzu bir içmiş olun Böylece
+Evet kıymetli arkadaşlar kaldığımız
+devam edelim sorusu olan yoksa isterseniz
+Evet şimdi only you man mimarisinde yollardan bahsettik şimdi yol çeşitleri
+belki uğraşan arkadaşlar olmuştur uğraşmayan içinde uğraşmaları işte Telkin ediyoruz
+anakartın üzerine takılan bir şey yerleştirilen bir şey o anakart ile işlemci arasındaki yola frontside bass ismi
+direkt bir yuvası var Oraya oturuyor yani bellek dediğimiz şey ise RAM belgesini daha iyi anlayacağınız dille bellek
+RAM Bu ders kapsamında bu 3 kelimede temel olarak bizim için aynı şeye karşılık geliyor olacak bellek yolları
+çok farklılık gösteriyor işte belki ddr 2 ddr 3'ü olanlar veya 4 işte yeni çıkan şeyler falan var onları kullananlar
+buradaki Tabii bellekte yine anakartın üzerine takılan bir şey belleğin Hatta ortasında bulunan
+penti'nin farklı bir konumda olması onun anakartı üzerine oturup oturmadığını da gösteriyor yani şöyle söyleyeyim sizin anakartınızın
+4 belleği destekliyorsa DDR3 biram takamasa Çünkü basları birbirleriyle örtüşmüyor Tabii bir taraftan bellek ve işlemci teknolojileri gelişmesiyle
+bu yol teknolojileri de gelişiyor daha hızlı daha yüksek frekansta veri iletimini olanak sağlayabiliyorlar aynı şekilde grafik birim bağlan
+var bunda ekran kartı diyebiliriz bunlar için grafik kartı veya diyebiliriz sadece Tabii grafik birim bağlantı yollarından ekran
+bağlanmak zorunda değilsiniz Daha farklı donanım birimleri de bağlayabilirsiniz bu belirli bir Protokolü olan belirli frekanslarda çalışabilen bir
+yol tipi işte PC Express Belki sizin en çok duyduğunuz grafik kartı yol birimlerinden birisidir yine grafik kartı dediğimiz ekran kartları da
+şeyin üzerine anakartın üzerine yerleştiriyorsunuz ve anakartın desteklediği çok pardon destek
+yol türleri Her neyse sizin grafik kartınızın da o yol türünde temelde olması gerekiyor bir de
+bellek dediğimiz yani depolama birimleri hard disk Olabilir ssd olabilir bu birimlerde yine sistemin haber
+sağlayan yollar var ikincil bellek birim bağlantı Yolları diyoruz bunlara sizin de yine çokça duyduğunuz satan ve onun daha önceki teknoloj
+Ata bu tarz yollardan Tabii Bunlara ek bir sürü yol da söyleyebiliriz ama kabaca aklınızda Hani bulunması gereken en temelleri bunlar diye düşünüyorum bunun
+haber diğer çevre birimlerinin bağlantı Yolları var yani siz bilgisayara işte çeşitli donanımlar takabilirsiniz
+Yazıcı olabilir TV kartı olabilir ses kartı olabilir işte bir belki kulaklık takacaksınız mikrofon takacaksınız bunlar için her birisi için
+Yollar söz konusu Belki sizin yine en çok kullandığınız yollardan birisi Universal serial Bus yani o sonundaki B harfi ile yolu ifade ediyor
+bu tarz Yolları Biz çevre birimleri bellek grafik kartı ikincil bellek ve işlem
+etkileşimli bir şekilde birbirleriyle haberleşmesi için kullanıyoruz şimdi 80 86
+işlemcilere Gelecek olursak Bu aile işlemcileri sis Temelli çalışıyorlar yani kompleks ınstruction set Computer
+Bir de risk var 700 ınstruction set ınstruction set computers şimdi sisli riskin arasındaki temel fark şu
+ınstruction uzunlukları birbirinden farklı olabiliyor Yani mesela mesela mesela mesela mesela mesela mesela mesela
+burada bir örnek vererek açıklamış olalım Mesela bir instruction düşünelim move instruction bu 5 byte yer
+increment diye bir instruction bunları göreceğiz ileride bu mesela bir bayt yer kaplayan biliyor tamam riskte böyle
+O yüzden kompleks bir yapısı var ardı ardına dizi Mesela bir instructions siz kullandınız ve toplam sallıyorum 317 bayt oldu
+317 byte üzerinden işlem yapıyorsunuz siz inground komutunu değiştirip yerine sallıyorum et komutu koymak istediğinizde
+3 bayttır yani şu an bu verileri tamamen Örnek olsun diye söylüyorum Şuradaki toplam uzunluğu değiştireceği için her şey bir soru işareti
+gelmiş olur Ama eğer ki risk mimarisinde çalışıyor olsaydınız istisnasız bütün komutlar aynı
+O yüzden bir komut yerine diğerini kullanabiliyorsunuz 80-86 ailesinden konuştuğumuz için biz sis olduğunu temelde söyleye
+işlemci hacimleri 8.16 32 ve 64 bittik çeşitli versiyonları var 80 86 ailesinin eminim ki
+Her biriniz bir çoğunuz veya 64 bitlik Belki de bazılarınız 32 bitlik mimarileri kullanıyorsunuz dur bizim bu ders kapsamında gör
+80 86 ailesinin bir işlemcisi 16 bitlik mimaride Çalışıyor tabii farklı
+tipleri var burada İntel AMD işte ıbm'in Texas enstrümantal Next gen falan 8086 ailesinin bir üyesi olan işlem
+yani siz bir Esen bile kodunu tasarlayıp yazdıktan sonra farklı işlemci türlerinde de çalıştırabilen Öteki türlü şöyle olabilir
+Yani tabii 80 86 ailesinin haricinde farklı şeyler de var aileler de var ama bu 80 86 genelleştirilmiş Siz bilgisayar
+cinsel işlemci var AMD mesela işlemci ile bir sistem Yapı Kredi etmek istiyorsunuz işlemciyi değiştireceksiniz anakart uyumlu ise farklı bir şey yapacaksınız yine
+aslında kodlarımız aynı şekilde Belki bir formalite Upgrade sonra çalışmaya devam edebilecektir backward kot com
+bileti en önemli özelliklerinden birisi Yani işlemci aileleri sürekli değişiyor farklı jenerasyonları çıkıyor şimdi mesela ıntel'in
+AMD İntel AMD Bunlar Piyasada en çok satılan işlemciler biliyorsun işlemci markaları biliyorsunuz bunların sürekli
+jenerasyonları çıkıyor Her Yeni jenerasyon kendisinden önceki bütün jenerasyon için yazılmış kodları destek
+biliyor arkadaşlar Mesela şöyle söyleyelim 80 86'dan sonra 8286 386 400 500 işte Pen
+İyiler falan geliyor İntel tarafında Siz mesela 80 86 da 16 Bitte Yazdığınız bir kodu i7
+onuncu nesil sallıyorum i7 10 nesil 64 bitlik bir şey dedi çalıştırabilirsiniz buna geriye yönelik uyumluluk deniliyor İleriye yönelik uyumluluk yok ama
+Yani siz 64 bitlik bir mimaride bir şeyler yazdınız Intel işte i7 de yazdınız bundan
+yıl önceki 80 86 işlemcisinin üzerinde çalıştırmak istiyorsunuz böyle bir yani İleriye yönelik bir uyumluluk yok geriye yönelik uyumluluk var bu da önemli
+birisi Tabii işlemcilerle beraber özellikle floating point işlem yapabileceğiniz matematiksel işlemciler de
+mesela 80 86 için 80 87 çipi var öyle söyleyelim veya entegresi var 8086 da sadece tam sayı in
+işlemleri gerçekleştirebiliyorsunuz 80 87 ile aldığınızda floating point yani virgüllü diyelim virgüllü işlem
+gerçekleştirebiliyorsunuz şu an modern işlemcilerin her birisi içerisinde matematiksel işlemcide barındırıyor Ama önceden böyle değildi yani 80 86 işlemci
+yani floating point işlem yapmak için biraz daha para verip bir de 80-87 de alıyor Ama şu an aldığınız işlemcilerin içerisinde matematik
+işlemcisi de otomatik olarak geliyor şurada gördüğünüz çip ise işte 80-86 diyoruz
+80 86 entegresi veya işlemcisi diyelim burada Micro prosesör diye geçiyor Aslında bunlar yani mikrop prosesör veya mikro işlem
+işlemci Bu ders kapsamında hepsi aynı yere çıkacak yoksa bunların farklı anlamları da var ama bu ders kapsamında Farklı yerlerde farklı şeyler söylesem de hepsi
+anlama geliyor olacak hiç Belki görmeyenlerin bir işlemci görmemiş olanlarınız vardır veya yeni nesil şu kare altında ince ince ufacık ufacık bacakları olan işlem
+Alışık olan arkadaşlar 80 86'nın nasıl bir şey olduğunu görsünler diye bunu buraya koymuş oldum biraz Tabii yeni işlemcilere göre büyük ve bacak
+40 tane yeni işlemcilerin çok daha fazla bacağı var çok yüksek bunlara göre işlem kapasitesi var ve fiziksel olarak bundan daha küçük aslında
+elemanları Evet nasıl değiştireceğiz şöyle yapalım tamam
+geçmiş çünkü sistem Evet şimdi 80 86 işlemcisinin iç yapısına
+beraber bakıyor olalım kıymetli arkadaşlar geriye geldik şimdi öncelikle
+içerisinde bakın şurada Az önce dediğim matematiksel işlemci birimi Alo yani var burada matematiksel işlemleri
+gerçekleştirebiliyorsunuz matematik mat yazayım kısaca anlayın ve lojik işlemleri Bunun üzerinde gerçekleştirebiliyorsunuz
+register denilen register Türkçesi yazmaç her ikisinde zaman zaman ağız alışkanlığı kullanabilirim Ben yazmak demek register demek
+yaz maçlar şu an Burada gördüğünüz her şey işlemcinin işlemcinin içinde arkadaşlar tamam mı Yani anakarta falan dağılmış durumda veya
+içerisinde olan şeyler falan değil o işlemcinin içerisinde olan Az önce gösterdiğim alttaki siyah şeyin içerisinde olan şeyler Öncelikle bizim yazmacı var Farklı
+yaz maçlar var aslında şu işaretçiler dediğimiz şey bunlar da yazmak Tamam işaretçi yaz maçları önce veri grubu yaz maçlarıyla başlayalım
+gördüğünüz dikdörtgen içerisinde a l b l CL ve DL register 8 bitlik register yani
+laiklik register Aslında bu A low Blow cloth dello low şu şekilde bir de hayı var
+a h diye gidiyor bu da 8 8 Toplam 16 bit Yani biz
+8 bitlik 2 parça halinde kullanılabilirken aynı zamanda 16 bitlik Ax register olarak da kullanabiliyoruz
+akümülatör register Şimdi register şöyle bir üzerinden geçiyorum bunların nasıl kullanıldığını daha detaylı görüyor olacağız ardından Base register var onun da High
+8 biter kısımları olmakla beraber 16 bitlik bx yine Counter cismi 32 16 bitlik CX ve data
+16 bitlik DX varyasyonları var Şu x'le geçenlerin hepsi 16 bit Tamam şuraya Dilerseniz
+kavramlarını yazalım bakın şöyle diyelim 16 Bit kaç bayttır arkadaşlar 2
+2 bayttır Aynı zamanda aynı zamanda 2 bayttır 4 nabız
+nipple demek ne demek yani her 4 bit 1 nübel yani 1 byte 2 baldır ve 16 bit 2 bayttır
+ve bir word tür Arkadaşlar bir word türü Yani ben bir word dediğim zaman Word büyüklüğü dediğim zaman 16 bitlik kavramını
+aklınıza gelsin ni bul da 4 bitlik bir büyüklük byte ve biti Eminem şimdiye kadar duymuşsunuzdur nebul ve vergi ilk defa duymuş olabilir
+Belki bu kavramlarda kafanızda canlanmış olsun yani veri yaz maçları işlemcinin içerisindeki verileri işlemeden önce üzerinde tutacağımız yaz
+Bunlar depolama birimleri o şekilde düşünün 16'lık bir depolama birimi kontrol unit işte komut kuyruğu Mesela şöyle düşünün çalıştıracağınız
+komutlar Öncelikle işlemcinin içerisinde sıraya göre komut kuyruğuna alıyorlar işlemci daha sonra o instruction çalıştırılacağı zaman komut kuyruğundan bir komutu alıyor
+yapması gereken çeşitli işlemleri gerçekleştiriyor komut kuyruğu işaretçiler Kesin ve veri yaz maçlarını kontrol edip işlemi gerçekleştirilmesi ise
+gerçekleştirilmesi ise kontrol birimi tarafından sağlanıyor bir diğer yazmaç grubumuz pointerlar işaretçiler Yani bu işaret
+steak belki steak kavramını bu derste ilk defa duydunuz eminim ki hepiniz site overflow kullanıyorsanız dur Her ne kadar step overflow
+tam olarak neye karşılık geldiğini veya hiçbir site over Flow hatası almadan o siteden faydalanabiliyorsunuz bu derste biraz daha bu işi steak kullan
+daha pratik bir şekilde görüyor olacağız ardından Base Pointer tamam mı State Pointer 5 Pointer şimdi daha sonra indeks yaz maçlarına
+geliyoruz Source indexers indeks İyi diyelim Bu da Destination indeks şu da instruction
+Şimdi bunlar ne için kullanıyor şunlar ne için kullanılıyor dedik ya programın içerisindeki burada doğrudan değişken kullanmadan işleri
+sanki Side değişken tanımlar gibi işlemcinin içerisindeki depolama birimlerini şu yaz maçlarla kullanabiliyoruz buradaki poin
+Bizim kod akışımız mesela steppo tır şu an steak de hangi noktada doldurmaya başlayacağız siteyi veya boşal
+onu gösteriyor bize bez stake Pointer Biz istediğimiz gibi değiştiremiyoruz bakın Şunların hepsini istediğimiz gibi müdahale edip değiştirebiliriz steak Pointer Biz istediğimiz gibi değiştiremiyoruz
+üzerinde müdahale edeceksek muhakkak 5 Pointer değerini kullanıyoruz bunların nasıl olduğunu göreceksiniz Esin ve the indeks yazmacı CD
+dizi veya bir matris oluşturduğunuzu düşünün köşeli parantezler içerisinde dizinin 5 elemanını ifade etmek için Mesela bir for içinde dönüyorsunuz iyi falan yazıyorsunuz ı
+3 seviyeli bir for yapıyorsanız veya Valide falan da kullanabilirsiniz diz işlemlerinde işte burada kullanacağımız indeks register sığ ve aslında
+gördünüz bx 3 tane de bu şekilde köşeli parantez içerisinde yazılabilen indeks register normal Veri register olarak da kullanılıyor
+kullanılabiliyor Ama siz indeks olarak kullanacaksanız sadece Bu üçünü kullanabiliyorsunuz sadece Bu üçünü kullanabildiğiniz için iyi
+yukarıda tarafta yüksek seviyeli dilde size mesaj şöyle bir şey Duydunuz mu derslerde hocalarımız hiç söylediğimi bilmiyorum 3 taneden fazla iç içe
+işte bunun sebebi bu Bak 1 2 3 3 tane register var o yüzden 3 tane iç içe doğru kullanın dördüncüyü kullandığın anda olay
+her şey sitenin içine girip çıkmaya başlıyor performansı Çok azaltıyor algoritmanın tasarlarken de o şekilde tasarlayıp Çünkü alt tarafını biliyorsun artık Esengül de Bunun karşılığını
+Yukarıyı tasarlarken de ona göre tasarlayacak Tabii kodumuzu bir taraftan yürütüyoruz mesela 50 satır kodumuz olduğunu düşünün şu an kodun neresinin yürüteceği tut
+Pointer daın Pointer bunları daha güzel görüyor olacağız bizim programımız s&y tarafında aslında bütün programlar böyle kod ceg
+kot segment steak segment Stein Türkçe karşılığı yığın arkadaşlar yığın ve data segmentten
+kot steak ve data segment Bu üçü bir araya gelerek bir programı oluşturuyor Mesela bir programın kod parçası vardır
+yani Mesela ifa büyüktür B ise C'de bir koddur hatırlarsanız veya işte yüksek seviyeli dillerde bir kottu buna kod kesimine yerleştiriyoruz veya
+diye bir değişken tanımladığınız İşte o değişkende data Iğdır tamam mı Yani datayı ve kodu ayrı ayrı tanımlıyoruz bir de yüksek seviyeli dillerde
+Alışık olmadığınız kullanmak için çeşitli kodları olmayan bir de steak segment var burada çok efektif bir şekilde
+yapısını Şu an ne olduğunu bilmiyorsunuz biliyorum ama şey olduğunda ne denir ona vakti geldiğinde siteyi işlerken çok güzel anlayacaksınız bir de
+segment var Eğer ki kullandığınız data segment 64 km bir boyuttan oluşur yani 64
+gelmezse 1,64 kaldık Daha ekstra segmentin kullanabilirsiniz yani toplamda 2 tane 64 kaldık bir değiş
+anlayabileceğiniz alanınız var 128 kaldık bir alanın içerisinde 80 86'da değişken tanımlar dizilerini matrisler
+tutabilirsiniz yaz maçları bu şekilde özetleyebiliriz Tabii bir adres yolu Bir de adres ve veri yolu bakın 80 86'da adres ve veri yolu aynı
+kontrol bacağı var kontrol yolu kontrol bacağı 20 bacaktan kontrol yolu 20 bacaktan oluşuyor dedim ya az önce üzerinde 40 tane bacak var diye onlardan 20 Tan
+kontrol yolu kullanıyor bu kontrol yolu bizim adres veya veri yolu olarak kullandığımız yoldan şu an adres mi gelecek verimi gelecek nasıl işlenecek
+şunlar nereden girecek bunu kontrol ediyor veriyi ve adresi de 20 bacaklı Bu yoldan göndermiş oluyoruz burada sorusu olan var mı hocam ben bir şey
+Alo ve çok sevinirim hocam pek müsait değil Oradan sadece konuşmak böyle olsun Bundan sonra
+Odanızı müsait hale getirin üstünüze kıyafetlerinizi giyin ve bundan sonra lütfen sizi görelim Buyurun Hakan Alo
+www.mail.com Bir de şu an gördüğümüz sistem 64 bit sistem oluyor şu an veri
+8 bölümü var Her biri 8 bit yapıyorsa Buna göre değerlendiriyoruz sistemi kaç bit olduğunu şu an sistemimiz arkadaşlar 16 bitlik bir sistem bakın
+sistemde bütün yaz maçlarımız boyutları 16 bittir yaz maçlarımızı söylüyorum yani reggie sırları Ax bxbx DX
+16000 Pointer tamamı da 16 bittir arkadaşlar bütün yaz maçlar 16 bit ve kesim yaz maçları CX cxs SS
+boyutları 16 diye açılıyor
+Bir de tabii PSV söylemeyi unuttum uyarın için çok teşekkürler Hakan Bu da program statüsü var program statüs
+Word denildiği anda Sizce PSV boyutu kaç bittir 16
+doğru cevap tebrik ediyorum bakın 16 bitir yazmıştık ya Şuraya hatırlarsanız nerede şurada 1 World 16 bittir Bu bir word seyyar 16 bittir bu
+Biz program statius World veya PSV çok demiyoruz daha çok kullanacağımız Terim şu Flex Flex yazamadım ya yani
+bayraklar tamam bir de bayraklar var programın statüsünün ne olduğunu bize
+Mesela az önce bir tane çıkartma işlemi yaparken veya toplama işleminde bilmiyorum elde bir sayı vardır kenara koyduk o elde sayıyı program statüsü word'den gör
+veya işte bizim ne denir ona
+kesmeler kesme alıp almayacağınız karar verecek dilekler Yine program statüsü word'ün içerisindeki fleks yani burada
+16 tane değer var ama bizim 80 86 9 tane bayrağımız var bayraklara geldiğimizde onları daha detaylı konuşuyor olacağız Evet başka sorusu olan var mı
+Hocam ben şey soracağım Bu 3 tane iç içe hor kullanmayın dediniz mümkün olduğunca 3 tane işçiden fazla kullanmayın dedim Ha evet işte bu 8
+86 işlemciler için mi geçerli yoksa şu an güncel işlemciler içinde aynı olay devam ediyor mu güncel işlemciler için de aynı olaylar devam ediyor bunların boyutları sadece 16 bitti 64 bit
+Tamam Adam Ekstradan bir indeks yazmacı öyle işlemciler var mesela 15 tane indeksi yazmacı olan işlemci var Adam özel tasarlanmış F16 da
+işlemci tasarlamış yapabiliyor yani böyle şeyler adam tasarlamış ise Tabii sen Instagram setini açıp bakacaksın instruction setini yani komutların nasıl kullanıldığını Gördükten
+buna söyleyebilirsin buna karar verebilirsin Tamam ben 15 tane iç içe form kullanayım diyebilirsin Ama bizim şu an konvansiyon nasıl söyleyeyim geleneksel
+dillerinde 3 tane bizim indeks yazmacı olduğu için ki dersin son haftalarında 64
+kodlar da yazıyor olacağız Orada da Bunlar 3 tane tamam Şu veri yaz maçlarının sayısı fazla ama pointerlar 3 tane o yüzden yine 3 tane yani
+Çünkü şöyle siz bir algoritmayı 3 tane ford'dan daha fazla iç içe yapıyorsanız bir hata yapıyorsunuzdur bir yerlerde yani onu güncellemeniz lazım
+Teşekkürler hocam Evet başka soru alalım Bu kısım çok önemli yani bütün her şeyi bunun üzerine kuracağız bundan sonra
+bir şey soracaktım da Evet hocam alo de matematiksel işlemler yapılıyordu da birinden
+doğruluk olmadığını bilmiyorum integer Of Flowers arasın birbirinden farklı yerlerde işlem yapılıyormuş diye duydum da o doğru mu Evet benden duymuşsundur az
+80 86'nın yanında bir de 80 87 alınca floating işlemler yapabiliyorsun yani floating işlemleri demek şu arkadaşlar Real
+veya işte float sayılar hani şeyde Side float diye bir değişken Double diye bir değişken tanımlayıp noktalı noktadan sonrası hassasiyet de oluyor ya şu an 80
+Altının içinde bugün 80 87 harici olarak yani kullanırsanız var yoksa buradaki aritmatik Lojistik yönü 8086 Yalın bir şekilde
+sadece ınteger sayılarla işlem yapıyor yani 5'i 2'ye bölüyor sonu 2 sonucu 2 buluyor 2,5 bulmaz 80 87 de alırsan yanına
+bir şekilde onun da işlemcisi ile beraber 2,5 bulabilirsin şu an 80 86 dayız Ama 80 8
+para verip Tabii o dönemin zenginleri para verip 80-87 de aldıkları olmuş ama ama bizim modern işlemcilerde gittin Şu an
+hepsiburada'dan mesela sallıyorum i7 işlemci amd'nin ryzen serisini falan bunlar da bu floating point
+telefon hep işin içine dahil yani ayrı ayrı almıyorsun şu an o manada bir sıkıntı yok tamam Evet başka sorusu olan
+Hocam bu bacak sayısı neye bağlı yani bacak sayısı neye bağlı adamlar böyle üretmişler
+40 tane bacağı var bakın şöyle Aha işte şurada Şuradaki bacakları sayarsan 1 2 3 4 40 tane bacağı olduğunu göreceksin
+yani üretirken Biz bu işlemleri gerçekleştirmek için şu instruction setteki işlemleri yapmak için kaç bacaklı bu işi halledebiliriz diye
+elektronik mühendisleri oturup kurgulamış tasarımı yapmışlar 40 tane bacakla bu bacaklar yollara bağlı arkadaşlar bakın yollara bağlı tamam mı veri yolu ne demiştik
+veri Yolu ve kontrol yok 3 tane yola bağlı şu bacaklar yani veriler buradan gelip gidiyor ve bu Bacakların her birisinin Ben hangi verinin gelip
+yine işlemcinin içerisinde kontrol ediliyor adamlar bu işlemciyi gerçekleştirirken demişler ki bizim 40 tane bacak işimizi
+ama yeni işlemci vardı altında mesela işten birini çıkarıp sayabilirsin yığınla bacak var yani adamlar böyle
+için 40 tane tamam Bu sorunun net bir cevabı yok Şu sebeple 40 tane değil 41 de yapabilirlerdi 45 de yapabilirlerdi belki 45 yaptılar bu işlemciyi
+sallıyorum IBM de tasarlamış olsunlar 45 yaptılar patron dedi ki o 45 bacak çok pahalıya patlar bunu üretemezler siz onu 40'a düşürün
+olabilir yani bizim bildiğimiz Hani bizim kabul edeceğimiz şey 40 tane bacak var bu derste göreceğimiz 16 bitlik 80 86 işlemci
+40 tane bacak var ama yeni modern işlemcilerde çok daha fazla bacak var evet
+Sessizlik soru yok demek herhalde o zaman geçiyorum Evet Of şimdi
+çeşitli işlemler yapacağız şimdi Tabii bizim bellekler yaz maçlarımız ve fiziksel adreslerimiz bunları
+hususta Öncelikle size bir beldeyi ne denir ona göstereyim yaz maçlardan kısaca bahsetmiş oldum belleğin Nasıl bir modelde
+size anlatarak başlayalım Tabii şu yazma moduna geçse çok sevineceğim
+şurada kapatalım Evet Şimdi arkadaşlar bizim 80 86'da kullan
+86'da bütün register adresleme register 16 bitti yani 2 üzeri 16'lık
+alanlara erişebiliyoruz 2 üzeri 16 neye karşılık geliyor Arkadaşlar 65536 bunun da tam karşılığı bizim
+64k Tamam 64k küçük k tamam mı Bu ne demek Kilo Kilo M ol
+mega mega megabayt gibi g olsaydı onu biliyorsunuz büyük K yazmıyoruz ama büyük K Kelvin demek Kelvin de bir sıcaklık birimi
+O yüzden kısaltır Küçükkaya yazıyoruz 64 K lık bakın ama burada kilo denilince aklınıza şu gelmesin 64k soruyoruz sınavda adam
+64 kilobayt mesela veya kilo bit diyelim Neyse 64 kilobayt kaç bayttır kiloyu görüyor adam lan kilo 1 gram
+1 kilogram 1000 gram olduğuna göre o zaman 1000 ile çarpıyor bunu 1000 ile çarpıyor 64.000 baktır diyor
+bu kilo hesabı böyle hesaplanmıyor burada 2'nin Kuvvetleri şeklinde gittiği için 2 üzeri 16 64k pekal
+nedir k nedir Şurayı çok güzel yazalım bakın daha güzel olsun 64k 27 64 nedir 2 üzeri 6 değil mi 2 üzeri 6
+2 üzeri 10 2 üzeri 16 yapar mı bu üsleri topluyordu biliyorsunuz Bu şeylerde 2 üzeri 16 yapar işte şu 10K
+€200 2 üzeri 20 m'dir yani Mega White gibi mesela M oradan geliyor 200 lira 30
+falan diye gidiyor gerisini zaten söylemeye gerek yok buradaki bakın 1000 değil €200 oda kaçtır
+1024 de bunu çarpıyorsun anlatabiliyor muyum 2 üzeri 20 1024 x 1024 tamam mı O şekilde hesaplanıyor bu işler şimdi
+64 clıck her alana Biz arkadaşlar segment diyoruz Türkçesi kesim kesim bizim
+64k hexe desimal olarak yazarsak kaç dijit eder
+Excel'de isim olarak yazarsak 64 k'yı veya 2 üzeri 16 ya Excel isim olarak yazarsak kaç dijit eder 4 mü
+4 Süpersiniz çok teşekkür ediyorum bu cevap için 4 dijital neydi söylemiştik bunu 1 byte 2 tane Excel
+sayıdan oluşuyordu 16 ise 2 bayttır 1 Word tür O yüzden 4 tane hexe desibel sayıdan oluşur bizim fiziksel adreslerimiz ise bakın adres Yolumuzun
+kaçtı 20 hatırlarsanız bacak 5 tane şeyden oluşuyor yani 5 tane Excel resim var dijital oluşuyor 1 2 3 4 5
+5 tane hexe desimal dijit ile kaç farklı adres hesaplayabilirim 2 üzeri 20'den bunların her birisi 4 bakın Excel'de smal olduğu için Şuraya da
+2 üzeri 20 işte şurada bakın 1 megabayt 1 megabayt yani
+80 86'da ramiz'in boyutu kaçmış 1 megabayt maksimum düşünün 1 megabayt Tekrar tekrar söylüyorum
+1 megabayt ve bu 1 megabaytlık RAM ile adamlar uzaya sen bile dili yazarak 1 megabaytlık RAM ve adamlar uzaya rok
+ve Ay'a inmişler inmiş bütün o işlemleri düşünün uzayda yönünü bulmuş yine bu yönü bulma
+hepsini 1 megabayt da yapmışlar şimdi Adam bilgisayar alıyor ya işte 16 GB RAM az 32 GB alayım ben bolca
+adamlar Bakın tekrar söylüyorum 1 megabaytlık RAM ile uzaya roket göndermişler yani Esenler'de de bizim maksimum 1 megabaytlık bir RAM
+olduğunu bilerek işlem yapacağız Hani Side diyordunuz ya Mesela şöyle şeyler çok kullanıyor belki int bir dizi tanıyacaksınız abin
+1000 elemanlı bir dizi ya 1000 eleman integer integer zaten 16 bit 16 x 1000 yani Zaten şeyi doldurdun yani RAM'i
+O yüzden ne kadar ihtiyacımız varsa o kadar tanımlamamız lazım gidip bunun daha sonra 5-10 tanesini kullanıyor yani burada öyle değil işte burada her şeyi kontrol etmen
+Öyle kafana göre 1000 elemanlı bir dizi yazacağım ben falan öyle şeyler yapamıyorsun İhtiyacın olan 92 elemanlı dizi ise şuraya yazıyorsun değer 90 2
+93 bile değil mi 16 bitti bile israf edemezsin Çünkü hepi topu 1 megabayt var şimdi bu 1 megabayt
+Şuraya mı olsun RAM 0'dan 1 mb'a kadar bu segmented
+memory management denilen bir şeyde Çalışıyor yani her bir blok şöyle segment 64k dan
+Tamam 64k bunların her birisine segment diyoruz bir sürü Tabii 1 megabayt içinde ne kadar sayıyorsa o kadar 64k var bunların her birisi segment
+Ben mesela bildiğim bir şey var Ne var segment numarası bu segmentin numarası Ne tamam mı
+4 segment numarası için kod segmenti kullanıyorduk hatırlarsanız kod segmen kot segment 16 bitlik bir veriyi de yani hexe desimal olarak
+xx4 tane dijital oluşuyor tamam mı kod segment ardından Pekala segmentini buldum ram'in içerisinde hangi segmentte olduğumu biliyorum
+Pekala ram'in içerisinde Ben hangi segmentte olduğumu biliyorum da o segmentin neresindeyim işte bunu tutan şey de instruction Pointer Eğer ki bu kod segment
+tamam mı ınstruction Pointer instruction pointed da 16 bit olduğu için 4 tane Excel d-smart dijital oluşuyor yani
+traction point'i biliyorum kod segmenti biliyorum Bu ikisini kullanarak o 1 megabaytlık kocaman ram'in içerisinde tam olarak
+hangi adrese fiziksel adrese bakın bildiğiniz fiziksel yani donanımsal olarak hangi adrese erişimi bulabilir miyim bulabilirim şöyle buluyoruz
+bakım fiziksel adres hesabı diyelim fiziksel adres hesabın şöyle yapıyoruz bunu şöyle yapıyoruz
+kod segment x 16 + instruction Pointer Tamam bu önemli
+şeylerden birisi nasıl hesaplıyoruz şurada yapalım isterseniz Mesela diyelim ki kot segment 2-c
+8 H olsun H ne manaya geliyordu şu sayının bir heceli smal sayı olduğunu gösteriyordu ınstruction point'in 00
+3 House tamam mı kod segmenti 16 ile nasıl çarpacağız
+onluk tabanda bir sayıyı 10 ile çarparken nasılsa nasıl ki sonuna 0 ekliyor
+tabanda da bir sayıyı 16 ile çarparken sonra 0 ekliyoruz bu kod segmenti 16 ile çarpmak Demek sonunda 1 0 eklemek demek Ve bunu daha sonra
+olarak topluyorum 3 9 5 C Excel'de Smart bu işte şu
+segmentte şu ınstruction Pointer da hareket ediyorsa Gramın içerisinde Şu bizim fiziksel adresimiz arkadaşlar tamam fees
+şu adresteyim Ama bu fiziksel adres hesabı önemli kod segmenti 16 ile çarpıyoruz zaten 16'lık tabanda olduğumuz için sonuna bir sıfır eklememiz yeterli daha sonra
+topluyoruz Pekala pekala şöyle bir şey yapalım bakın onu şuraya çok dağıtarak yaptım ama onu da şuraya yazayım Yüksek müsaade
+şunu şuradan şuraya alabilirsen daha güzel olur onu da şuraya yazayım yeni bir şey hesaplayalım diyelim ki kod segment
+5 0 Excel'de smal olsun instruction Pointer 0093 Excel'de İsmail olsun
+nasıl hesaplıyoruz 2-c 500 sonra bir tane daha 0 ekliyorum bakın 16 ile çarpmak için ondan sonra ınstruction po
+toplayalım 9 3 5 2 C Excel desigual bir şey dikkat
+çektiğimi bilmiyorum bakın Şuradaki hesaplanan fiziksel adres de buradaki hesaplanan fiziksel Adres aynı yani farklı kod segmentte farklı
+traction Pointer Days farklı kod segmentte farklı ınstruction Pointer Days ama fiziksel adres olarak aynı yeri gösteriyor işte bu 80
+gerçek kipte çalışırsak böyle bir sıkıntı var Farklı kot segment ve instruction pointerlar fiziksel adres olarak aynı yeri gösterebilir O yüzden biz burada çalışır
+böyle bir sıkıntıyı her daim bilerek hareket edeceğiz ama yeni nesil işlemciler protected tipte çalışıyor Bu tarz şeylerin olmasını engelliyorlar Evet burada sorusu
+burada sorusu olan
+sesim geliyor mu Evet geliyor Semih Hocam neden bu ikisi de aynı fiziksel bellekte çıktı Onu bir daha anlatabilir misiniz
+Yani işlem yapıyoruz bak yani fiziksel adres hesaplarken yaptığımız şey şuydu fiziksel adres hesaplarken kot segmenti onunla çarpıp instruction
+fiziksel adres bu şekilde hesaplanıyor gerçek gibi için konuşuyoruz Bakın bu Real tip deniliyor gerçek kipte Memory fiziksel adres hesaplama
+80 86 gerçeklikte çalışıyoruz bunu 10'la çarpıp bununla topladığımızda fiziksel adresi elde ediyorduk Burada da aynı bakın farklı kot segment ve inspection point
+aynı yeri gösterebiliyor burada böyle bir problemi var yani siz programcı olarak şu hesabı düzgün yazmazsan yapmazsanız 5 tane kod
+5 farklı program çalışıyor aynı anda hepsi birbirine girebilir kodları O yüzden programcının çok uyanık olması lazım ve aynı fiziksel adrese falan düşmeyelim diye ama
+hurmalı kiple çalışırken yeni nesil işlemciler Yani daha çok daha doğrusu yeni nesil işlemcilerin boyoz diyelim veya işletim sistemleri bunu sizin adınıza held
+Bunun da bir sebebi yok yani bunu böyle tasarlamış bu da niye böyle oldu demeyin her daim birbirlerine örtüşmez tabii ama siz onun önceden
+o şekilde kesimleri organize etmeniz gerekiyor alnım açacağım Teşekkürler hocam
+Evet şimdi Pekala geri gelelim tekrar Şurayı temizleyebilir Memory
+bellekler ile ilgili veri saklama birimleri ile ilgili bir piramit var arkadaşlar o piramiti size şöyle bir çizeyim
+Şimdi en altında bu piramitin manyetik teypler var netik teypler
+evvelden belki görmüşsünüzdür işte video kasetler veya bu şeyler vardı kaset çalarlar vardı içerisinde bantlar var
+Böyle sarılarak ilerliyor Seküler Access Memory deniliyor onlara manyetik teypler Burada çok fazla veri depolayabiliyor Fakat bu
+erişmek işi oldukça yavaş gerçekleşiyor fakat Memory bakımından çok fazla Memory depolayabilen şunu sorabilirsiniz
+hala daha manyetik teyp mi konuşuyoruz Evet bankalar arkadaşlar hala daha manyetik teyp kullanıyorlar verilerini manyetik teyplerde saklıyorlar niye
+Kadir Sizce bu manyetik teybi hiç görenlerin oldu mu evde kesin vardır anne babanızın kaset çalar onun
+dikdörtgen Bir kaset takıyorsun o dönmeye başlıyor içinde 13 tane şarkı varsa 11 din ilk 10'lu dinlemeden 11 dinlemiyorsun ya
+sardırmak gerekiyor ama yeni Mp3 çalarlar da öyle değil İstediğin şarkıyı açıyorsun tak diye çalıyor işte İstediğin şarkıyı açıp tak diye çalıyorsa o Random AC
+Eğer ki bir şarkıyı dinlemek için diğerlerinin Ondan önceki gelen hepsini dinlemen gerekiyorsa o sekon Access memurudur Tamam bu sek
+Böyle bir şeye bankalar niye para harcıyorlar Sizce güvenlik için olabilir mi acaba güvenlik için olabilir Mister robot
+bir dizi var Mesela orada hackler falan da böyle bir problem vardı izleyenler vardır belki Yani şimdi Düşünsene sen bankadaki bilgileri çalacaksın
+Random Access memuru da olan bilgiyi veya işte harddiske ssd olan bilgiyi zart diye çalabilirsiniz Saniyeler içinde manyetik teyp
+dön babam dön dön babam dön yani aylar sürer O yüzden bankalar güvenlik açısından Evet manyetik teypler kullanıyor kapasitesi çok yüksek
+ama erişim hızı çok yavaş bunun üstünde bizim hard disk DVD
+Birim zamanda 1 dakika Birim zamanda yüksek ama erişim hızları ve düşük oluyor Evet buyurun Şimdi mesela biz bankaya
+kullandıkları için velilere de onlar kendileri nasıl bu kadar hızlı işleyebiliyor Evet yani tabii
+manyetik teypte Arkadaşlar bu işin yedeği var yani yedekleri Backup deniliyor ona hatırlarsanız o diziyi izleyenler bilir şeyi Backup
+manyetik teypleri içerisine koyuyorlardı Aslında şeyin içerisinde yani şimdi bankanın hacklendiği en büyük problem Düşünsene senin sisteminde $100
+Adam $10.000 Yapıyor kendi sistemini yani değiştiriyor işte back up her daim hızlı bellek biriminde sallıyorum ssd içerisinde olan
+verilerin birbirleri ile örtüşmesi gerekiyor olası bir sızma da adamların esas aldığı şey manyetik teyp içerisindeki veriler
+o şekilde sistemi tekrardan şey yapıyorlar ne denir ona kurtarıyorlar öyle söyleyelim Bu da tabii çok Sadece bu bir
+Gönlüm olamaz bununla Biriyle beraber bir sürü güvenlik önlemleri var ama Beka adlarını yani yedeklerini muhakkak bu tarz şeyler üzerine yapmaya çalışıyor hepsi yapmıyor belki
+biraz daha paraya kıyıp yeri olan bankalar bu şekilde yapıyordur diye düşünüyorum Biz de kullanabiliriz yani manyetik teypte de veri depolama veriyor Çok uzun süreler böyle depol
+onun üzerinde CD'ler var onun üzerinde ssd'ler geliyor arkadaşlar hız bakımından ama ssd
+şöyle düşünün bir Hard diske vereceğiniz para ile ssd'ye vereceğiniz parayı düşünün Hard diske vereceğiniz Parayla daha fazla veri depolayabilir ssd'ye vereceğiniz aynı miktar Parayla daha
+yukarıya çıktıkça Yani onun üzerinde RAM geliyor düşünün Siz 128 Gb ssd aldığınızda 150 lira veriyorsunuz 128
+RAM almak istediğinizde kaç para verirsiniz yani yukarıya doğru bakın çıktıkça kapasite düşüyor Ama hız artıyor RAM mi daha hızlı ssd mi daha hızlı RAM çok
+çalışıyor bakıldığında onun üstünde cache geliyor cache işlemcinin içerisinde olan bir bellek birimi önbellek deniliyor buna
+ram'e gittiğinde ram'in içerisinden bilgisayar donanımı derse aldığınızda Bunu daha güzel göreceksiniz ram'in içerisinden gitmişken
+birkaç tane bayt almayayım da bir blok alayım getireyim buraya koyayım falan diyorlar O yüzden daha sonra tekrardan ram'e gitmeden arkasındaki verileri
+alabiliyorlar önbellek bunun adı Mesela işte benim şu an bilgisayarımda 6 megabayt önbellek var 16 da olur 20 de olur sizin işlemciniz kapasitesine
+önbelleği ne kadar büyükse işlemciniz o kadar hızlı çalışır mesela i7 alıyorsunuz Sallıyorum bir serisinde her şeyi aynı firek
+aynı bir serisinin önbelleği 6 megabayt diğerinin ki 8 megabayt ya ulan ikisi de aynı sizi
+Oysaki önbellek daha performanslı bir şekilde çalışır bunu da hiçbir zaman unutmayın Bu boyutları O yüzden küçüktür Yani ben 20 megabayt daha büyük
+kişisel bilgisayarlarda görmedim açıkçası şuradaydı petabyte falan seviyesinde veriler var En tepede ise ne vardır
+tahmin edebileceğiniz üzere register yaz maçlar Tamam en tepede bu var erişim en hızlı Çünkü işlemcinin kendisi yani erişim en
+ama şöyle düşünün mesela Hani dedik ya 20 megabayt maksimum 20 megabayt yani bundan daha düşük olabilir mi
+64 bitten tamam mı O da kaç byte eder 8'e böl 8 byte dan 20 tane
+bizim 20 tane Mesela hadi yeni sistemler diyelim ki 100 tane register olsun 100 tane register olsun 80 byte birisi 20 megabayt birisi 8
+yani 1 kilobayt bile değil o sebeple bu aradaki hani şey düşüşünü de görüyorsunuz yani donanımsal olarak düşüş
+şöyle aşağıya doğru indikçe erişim süresi artıyor erişim süresi artıyor Yani şöyle
+daha uzun süredir buradaki 1 byte erişmek için harcadığın süreyle Şuradaki Bir byte erişmek için harcadığınız süreyi karşılaştırırsak Şuradaki veri çok daha
+rakam çok daha büyük yukarıya doğru gittikçe ise depolama kapasitesi azalıyor ama kapasitesi azalıyor
+Tabii ki hız artıyor en önemli hususlardan birisi de yukarıya doğru gittikçe hızın artması
+bellek nerede yani bir depolama birimlerini de bu şekilde size özetleyebiliriz diye düşünüyorum Bu Pir
+bir zaman unutmayın yani nerede ne var yukarıya çıktıkça ne oluyor aşağıya indikçe ne oluyor Bunu güzel gözlemleyebilmek önemli Evet sorusu olan var mı
+Evet bu sessizlik yok demek zannımca daha anlatacak
+bunlar var ama zamanımız doldu Siz de çok fazla meşgul etmeyelim dersin başında olmayan arkadaşlar için tekrar söylüyorum google gruba muhakkak üye olun
+arkadaşlar oradan çünkü çeşitli paylaşımlar yapıyor olacağız sorularınız varsa oradan sorabilirsiniz değerlendirmelerinizi oradan yapabilirsiniz Google gruba ınstruction
+lütfen Oradan hepinizin indirin Önümüzdeki haftaki derste dersi dinlerken instruction setiniz de PDF olarak ayrı bir sekmede açık bulunsun sürekli ona
+ders anlatıyor olacağız Çünkü sorularınız Yoksa bugün dersi noktalama durabiliriz devam edebiliriz Evet buyurun
+ınstruction sette var dediniz ya Yani classroom falan hep orada mı onlarda Hepsi de mi avesis DEU
+bir duyuru koydum Orada Google classroom linki var Google classroom subscribe oluyorsun yani abone oluyorsun sanki YouTube kanalına abone oluyormuş gibi orada abone oluyorsun
+sonra oradaki paylaşımları görebiliyorsun oradaki duvar paylaşımların birisinde ders materyali olarak instruction setleri yükledim ben Tamam hocam tamam
+hocam ders kaydı hakkında dersi kaydediyoruz sen dersin başında belki yoktun ama arkadaşlar dedi ki online Yıldız
+bu dersleri izleyebiliyoruz ders şu an kaydoluyor ama ben kaydı açmadım başkasına kayıt iznini veremediğim gibi kendim de zoom'dan kaydedemiyorum bir yere
+benim sistemde şu an buzla kaydoldu görünüyor Bulut Muhtemelen online Drive falan olabilir Oradan kontrol edin ama siz
+söylemiştim kendi kaydınızı kendinizin almasını Ben öneririm online sisteme erişin eriştir indirebilirsin indiremem ama erişemediği isen online sistem
+ki bazen yoğunluktan dolayı erişemeyebilirsiniz kendi kaydını elinde olması her daim daha güzel olacaktır Ben teşekkür ederim Saliha
+Evet başka sorusu olan haftaya görüşürüz diyorum arkadaşlar o zaman Kendinize iyi bakın Sağlıcakla kalın
