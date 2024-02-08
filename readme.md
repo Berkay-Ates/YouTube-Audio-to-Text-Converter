@@ -7,23 +7,15 @@ Bu proje, kullanıcıların bir YouTube video URL'si girdiğinde, o videodaki se
 ### Gereksinimler
 - Python 3.x
 - İnternet bağlantısı
-- YouTube API erişim anahtarı ([YouTube Developer Console](https://developers.google.com/youtube/registering_an_application) üzerinden alınabilir)
 
 ### Proje Kurulumu
 1. Proje dosyalarını bilgisayarınıza indirin veya klonlayın.
-2. Gerekli Python paketlerini yüklemek için terminal veya komut istemcisinde şu komutu çalıştırın:
-   ```
-   pip install -r requirements.txt
-   ```
-
-### YouTube API Anahtarı
-- YouTube API erişim anahtarınızı `config.py` dosyasında `YOUTUBE_API_KEY` değişkenine atayın.
+2. Gerekli Python paketlerini yüklemek için terminal veya komut istemcisinde ilgili komutlari çalıştırın:
 
 ### Kullanım
-1. Terminal veya komut istemcisinde şu komutu çalıştırarak programı başlatın:
-   ```
-   python main.py
-   ```
+1. Terminal veya komut istemcisinde şu komutu çalıştırarak programı başlatın.
+
+
 2. Program başladığında, bir YouTube video URL'si istenecektir. URL'yi girin ve Enter tuşuna basın.
 3. Program, videodaki sesi alacak ve metin haline dönüştürecektir.
 4. Sonuç, terminal veya komut istemcisinde görüntülenecektir.
